@@ -9,7 +9,24 @@ repo_url: https://github.com/reemo3dp/notes
 
 theme:
   name: material
+  features:
+    - content.tooltips
+    - navigation.tabs
   palette:
     scheme: slate
     primary: purple
     accent: indigo
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.snippets:
+      auto_append:
+        - includes/glossary.md
+
+watch:
+  - includes
