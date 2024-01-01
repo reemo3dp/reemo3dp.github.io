@@ -1,0 +1,15 @@
+site_name: Reemo's 3D Printing Notes
+site_url: https://github.com/reemo3dp/notes
+site_author: Reemo3dp
+site_description: >-
+  Notes and snippets for various klipper / voron related topics
+
+repo_name: reemo3dp/notes
+repo_url: https://github.com/reemo3dp/notes
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: purple
+    accent: indigo
