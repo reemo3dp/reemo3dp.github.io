@@ -1,16 +1,18 @@
 site_name: Reemo's 3D Printing Notes
-site_url: https://github.com/reemo3dp/notes
+site_url: https://reemo3dp.github.io/
 site_author: Reemo3dp
 site_description: >-
   Notes and snippets for various klipper / voron related topics
 
-repo_name: reemo3dp/notes
-repo_url: https://github.com/reemo3dp/notes
+repo_name: reemo3dp/reemo3dp.github.io
+repo_url: https://github.com/reemo3dp/reemo3dp.github.io
 
 theme:
   name: material
   features:
     - content.tooltips
+    - content.code.annotate
+    - content.code.copy
     - navigation.tabs
   palette:
     scheme: slate
@@ -23,7 +25,13 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.details
+  - pymdownx.magiclink
   - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
   - pymdownx.snippets:
       auto_append:
         - includes/glossary.md
