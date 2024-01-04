@@ -1,0 +1,2 @@
+??? danger "Danger: Executing random scripts strangers give you"
+    ... is the best way to compromise your system. Whenever you see a `curl -sSL ... | bash` command on these sites, run it first without the `| bash` and inspect it. 
