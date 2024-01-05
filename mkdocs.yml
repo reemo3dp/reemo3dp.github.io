@@ -37,6 +37,8 @@ markdown_extensions:
   - pymdownx.snippets:
       auto_append:
         - includes/glossary.md
-
+  - pymdownx.tasklist:
+      clickable_checkbox: true
+  
 watch:
   - includes
