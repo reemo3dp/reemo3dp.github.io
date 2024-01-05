@@ -1,8 +1,8 @@
 ## Important Links
 
 - mellow documentation for the Gemini v3 (might be broken in some browsers, works on Chrome/Firefox):  https://mellow.klipper.cn/#/board/fly_gemini_v3/ 
-- Pinout for the Gemini v3: https://github.com/Mellow-3D/Fly-Gemini-V3/blob/main/Hardware/Gemini_v3_pinout.svg 
-- Schematic for the Gemini v3: https://github.com/Mellow-3D/Fly-Gemini-V3/blob/main/Hardware/Gemini_v3_schematic.pdf
+- Pinout for the Gemini v3: https://github.com/Mellow-3D/Fly-Gemini-V3/blob/main/Hardware/Gemini_v3_pinout.svg  ([Mirror](./Gemini_v3_pinout.svg))
+- Schematic for the Gemini v3: https://github.com/Mellow-3D/Fly-Gemini-V3/blob/main/Hardware/Gemini_v3_schematic.pdf ([Mirror](./Gemini_v3_schematic.pdf))
 - V0Display Setup Guide: 
 https://github.com/VoronDesign/Voron-Hardware/blob/master/V0_Display/Documentation/Setup_and_Flashing_Guide.md
 - Siboor supplementary docs and models: 
@@ -27,7 +27,7 @@ https://github.com/Lzhikai/SIBOOR-Voron-0.2-AUG
 
 - [Nevermore Micro V6](https://github.com/nevermore3d/Nevermore_Micro/tree/master/V6)
 - [chirpy2605's Lift-Off Tophat](https://github.com/chirpy2605/voron/tree/main/V0/Lift-Off_Tophat_Hinges) with [my mod that adds a backstop](https://www.printables.com/model/659597-chirpys-v02-lift-off-tophat-hinges-with-backstop)
-- [Magnetic Backplate](https://www.printables.com/model/659597-chirpys-v02-lift-off-tophat-hinges-with-backstop) by me
+- [Magnetic Backplate](https://www.printables.com/model/659559-magnetic-backplate-for-voron-v02) by me
 - [V0 Upper Rear Bowden Inlet by MapleLeafMakers](https://github.com/MapleLeafMakers/V0_Upper_Rear_Bowden_Inlet/tree/main) with [my mod to rotate the BTT SFS Filament Sensor](https://github.com/MapleLeafMakers/V0_Upper_Rear_Bowden_Inlet/pull/1)
 
 ## Flashing without `fly-flash`
