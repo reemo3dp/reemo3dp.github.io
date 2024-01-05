@@ -10,6 +10,7 @@ repo_url: https://github.com/reemo3dp/reemo3dp.github.io
 theme:
   name: material
   features:
+    - navigation.expand
     - content.tooltips
     - navigation.indexes 
     - content.code.annotate

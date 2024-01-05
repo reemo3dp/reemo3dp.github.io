@@ -4,5 +4,12 @@
 	"name": "mkdocs-material",
 	"build": {
 		"dockerfile": "Dockerfile"
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"DavidAnson.vscode-markdownlint"
+			]
+		}
 	}
 }
