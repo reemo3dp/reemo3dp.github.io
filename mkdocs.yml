@@ -39,6 +39,9 @@ markdown_extensions:
         - includes/glossary.md
   - pymdownx.tasklist:
       clickable_checkbox: true
-  
+
+plugins:
+  - git-revision-date-localized
+
 watch:
   - includes
