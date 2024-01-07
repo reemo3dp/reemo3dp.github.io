@@ -12,7 +12,7 @@ This is the idealistic process I'm following (when people ask) when working on e
 - Every guide is outdated and wrong - Take them for a checklist of things to do, but don't bindly follow them.
 - The schematics and the pinout is the only digital source of truth that an be trusted (until you find out it's wrong)
 - Every wire needs to be traced from source to target and be in agreement with the schematics.
-- If there's smoke/short-cicruits/malfunction, all hardware connected is to be considered a fire hazard and not to be used again without proper care and verification.
+- If there's any smoke/short-circuits/malfunction, all hardware connected is to be considered a fire hazard and not to be used again without proper care and verification.
 
 ## Checklists for first power-on
 
