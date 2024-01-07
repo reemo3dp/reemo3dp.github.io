@@ -12,7 +12,7 @@ All ports inside the blue frame are controlled by the host, e.g.:
 
 ## Important Notes
 
-- The `IC3` responsible for providing 5V power is a `XL1509-5V`, which are usually rated at less than 2A current. That 5V rail will provide power to all USB devices and all 5V ports on the MCU (neopixels, endstops, probes) plus the MCU and the host itself. A single neopixel uses up to `60mA`, two matchsticks + the 8 bed pixel might draw up to `1.68A`. Consider not running them at full brightness.
+- The `IC3` responsible for providing 5V power is a `XL1509-5V`, which are usually rated at less than 2A current. That 5V rail will provide power to all exposed 5V ports on the MCU such as neopixels, endstops and probes (MCU and USB are powered by a different step-down converter). A single neopixel uses up to `60mA`, two matchsticks + the 8 bed pixel might draw up to `1.68A`. Consider not running them at full brightness.
 - Do not flip the switch to power off the system. Read [Powering off](./powering_off.md)
 
 
