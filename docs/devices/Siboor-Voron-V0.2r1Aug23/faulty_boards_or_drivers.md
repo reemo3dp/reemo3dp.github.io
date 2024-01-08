@@ -15,20 +15,7 @@ We are only measuring resistance and continuity.
 
 ![Annotated picture of the driver](./driver_pins.jpg)
 
-Flip the driver around so that you can easily probe the pins. Measure the resistance from **GND** (now on the bottom **left**) to each of the non-crossed out pins. The resistance should read (with a margin of error) as follows:
-
-| GND to $PIN | Reemo3dp | Ben | KaeAl |
-| --- | --- | --- | --- |
-| VDD | 770kΏ | ~= Reemo3dp | 670kΏ |
-| DIR | 20kΏ |~= Reemo3dp | 141.7kΏ |
-| STEP | 5mΏ |~= Reemo3dp | 1.5mΏ
-| PDN2 | 20kΏ (MKS TMC2209)<br/>- (Siboor) | - (Siboor) | - (Siboor) |
-| PDN1 |  20kΏ |~= Reemo3dp | 19.9kΏ |
-| MS2 | 157kΏ |~= Reemo3dp | 141.5kΏ
-| MS1 | 157kΏ |~= Reemo3dp |141.6kΏ
-| EN | 789kΏ |~= Reemo3dp | 676kΏ |
-| INDEX | 8.23kΏ |~= Reemo3dp | 8.1kΏ |
-
+Flip the driver around so that you can easily probe the pins. Measure the resistance from **GND** (now on the bottom **left**) to each of the non-crossed out pins. 
 ## Mainboard Measurements
 
 !!! danger
@@ -59,3 +46,22 @@ Flip the driver around so that you can easily probe the pins. Measure the resist
 ![Driver Power](./faulty_probe_driver_power.jpg)
 
 Measure this one twice, once with the PSU connected to the mainboard, **but not plugged to your mains (no 110V/230V)! No live current**.
+
+## Measurements
+
+| Measurement | Reemo3dp (working) | Ben (broken) | KaeAl (magic smoke on IC3) | chrizz (pristine) |
+| --- | --- | --- | --- | --- |
+| Driver: GND to VDD | 770kΏ | ~= Reemo3dp | 670kΏ | 514-522kΏ |
+| Driver: GND to DIR | 20kΏ |~= Reemo3dp | 141.7kΏ | 150kΏ
+| Driver: GND to STEP | 5mΏ |~= Reemo3dp | 1.5mΏ | 7.38mΏ, extruder 11.5mΏ |
+| Driver: GND to PDN2 | 20kΏ (MKS TMC2209)<br/>- (Siboor) | - (Siboor) | - (Siboor) | - (Siboor) |
+| Driver: GND to PDN1 |  20kΏ |~= Reemo3dp | 19.9kΏ | 20kΏ |
+| Driver: GND to MS2 | 157kΏ |~= Reemo3dp | 141.5kΏ | 133-136kΏ |
+| Driver: GND to MS1 | 157kΏ |~= Reemo3dp |141.6kΏ | 134-136kΏ |
+| Driver: GND to EN | 789kΏ |~= Reemo3dp | 676kΏ | 511-526kΏ |
+| Driver: GND to INDEX | 8.23kΏ |~= Reemo3dp | 8.1kΏ | 7.9-8.4kΏ |
+| Top Cap | - | inf | 400kΏ/none | 240kΏ/240mΏ ?! |
+| Bottom Cap | - | inf | 60.9Ώ | 200kΏ/240mΏ ?! |
+| Inductor H1 | - | 0.06Ώ | 0.4Ώ | 0.0Ώ |
+| Inductor H2 | - | 0.06Ώ | .4Ώ | 0.0Ώ |
+| PSU | - | - | Continuity, no resistance | - |
