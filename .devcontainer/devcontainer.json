@@ -8,7 +8,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"DavidAnson.vscode-markdownlint"
+				"DavidAnson.vscode-markdownlint",
+				"esbenp.prettier-vscode"
 			]
 		}
 	}
