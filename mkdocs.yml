@@ -12,7 +12,7 @@ theme:
   features:
     - navigation.expand
     - content.tooltips
-    - navigation.indexes 
+    - navigation.indexes
     - content.code.annotate
     - content.code.copy
     - navigation.tabs
@@ -44,6 +44,19 @@ plugins:
   - git-revision-date-localized
   - glightbox
   - social
+  - blog:
+      blog_dir: quick_notes
+      archive: false
+      archive_pagination: false
+      categories: false
+      blog_toc: true
+  - rss:
+      match_path: quick_notes/posts/.*
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags
 
 watch:
   - includes
