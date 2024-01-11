@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -euxo pipefail
+
 # Adapted from https://cdn.mellow.klipper.cn/Utils/fly-flash/fly-flash
 PD4="100"
 PD2="98"

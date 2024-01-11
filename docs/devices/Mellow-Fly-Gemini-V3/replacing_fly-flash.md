@@ -2,36 +2,22 @@
 
 `fly-flash` is bloat that does nothing but switch the GPIO pins `BOOT1` (`PD2`) and `RST` (`PD2`) to put the Gemini MCU into HID-flash mode.
 
+In principle, if the MCU is already running *a* version of klipper, `make flash` from klipper should be able to instruct the mcu to boot into HID mode (https://www.klipper3d.org/Bootloaders.html#stm32f103-with-hid-bootloader). In case that doesn't work, the following scripts reset the MCU and boot it into HID mode (by putting `BOOT1` high and toggling `RST`).
+
+For each of the following methods, remove the jumper connecting `BT1` with `GND`.
+
+!!! danger
+
+    Neither of these scripts have been tested. Proceed at your own risk.
+
+### Newer kernels (without `/sys/class/gpio/`)
+
 ``` bash title="Put the Gemini MCU into HID mode"
-# Adapted from https://cdn.mellow.klipper.cn/Utils/fly-flash/fly-flash
-PD4="100"
-PD2="98"
+--8<-- "docs/devices/Mellow-Fly-Gemini-V3/gpioset-fly-flash.sh"
+```
 
-BOOT1="$PD2"
-G_BOOT1="/sys/class/gpio/gpio${BOOT1}"
-RST="$PD4"
-G_RST="/sys/class/gpio/gpio${RST}"
+### Older kernels (with `/sys/class/gpio`)
 
-echo "$RST" > /sys/class/gpio/export
-echo "$BOOT1" > /sys/class/gpio/export
-
-echo "out" > "$G_BOOT1/direction"
-echo "out" > "$G_RST/direction"
-
-echo "Press enter to reboot the Gemini MCU into the HID bootloader"
-read
-echo "1" > "$G_BOOT1/value"
-sleep 1
-echo "0" > "$G_RST/value"
-sleep 1
-echo "1" > "$G_RST/value"
-
-echo "Proceed with flashing the gemini mcu using hid-flash from klipper"
-echo "Press enter to reboot the Gemini into klipper again"
-read
-echo "0" > "$G_BOOT1/value"
-sleep 1
-echo "0" > "$G_RST/value"
-sleep 1
-echo "1" > "$G_RST/value"
+``` bash title="Put the Gemini MCU into HID mode"
+--8<-- "docs/devices/Mellow-Fly-Gemini-V3/simple-fly-flash.sh"
 ```
