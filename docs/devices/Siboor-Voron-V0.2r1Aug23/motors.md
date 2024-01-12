@@ -8,11 +8,37 @@
 
 ![42STH26-0804A-200](./motor_42sth26-0804a-200.jpg)
 
+## Motor Settings
+
+```toml
+[stepper_x]
+microsteps: 64
+full_steps_per_rotation: 200
+rotation_distance: 40
+
+[stepper_y]
+microsteps: 64
+full_steps_per_rotation: 200
+rotation_distance: 40
+
+[stepper_z]
+microsteps: 32
+rotation_distance: 8
+
+[extruder]
+microsteps: 16
+rotation_distance: 23
+gear_ratio: 50:10
+
+[tmc2209 extruder]
+stealthchop_threshold: 999
+```
+
 ## TMC Autotune
 
 From https://github.com/andrewmcgr/klipper_tmc_autotune/issues/63
 
-``` toml
+```toml
 [motor_constants siboor-35sth52-1204a_fixed]
 #Siboor BOM Voron 0.2 steppers
 resistance: 2.3
@@ -30,12 +56,12 @@ steps_per_revolution: 200
 
 [autotune_tmc stepper_x]
 motor: siboor-35sth52-1204a_fixed
-sg4_thrs: 118
+sg4_thrs: YOU_HAVE_TO_CALIBRATE_SENSORLESS_HOMING_YOURSELF
 tuning_goal: performance
 
 [autotune_tmc stepper_y]
 motor: siboor-35sth52-1204a_fixed
-sg4_thrs: 118
+sg4_thrs: YOU_HAVE_TO_CALIBRATE_SENSORLESS_HOMING_YOURSELF
 tuning_goal: performance
 
 [autotune_tmc stepper_z]
@@ -47,7 +73,7 @@ tuning_goal: performance
 
 This macro (in principle) allows to hot-switch between performance and silent. It redefines `SET_VELOCITY_LIMIT` assuming your slicer will use that to set movement limits, and rejects any values that go beyond the set caps. It allows to switch to silent printing without reslicing the model and without loosing steps, at the cost of potentially moving too slow than necessary.
 
-``` toml linenums="1" hl_lines="33"
+```toml linenums="1" hl_lines="33"
 [gcode_macro SET_VELOCITY_LIMIT]
 rename_existing: _SET_VELOCITY_LIMIT
 variable_cap_enabled: False
@@ -81,17 +107,17 @@ gcode:
 gcode:
   {action_respond_info("Silent activated")}
   SET_VELOCITY_LIMIT CAP=True VELOCITY=150 ACCEL=5000 ACCEL_TO_DECEL=2500 SQUARE_CORNER_VELOCITY=5
-  SET_TMC_FIELD STEPPER=stepper_y FIELD=SGTHRS VALUE=80
-  SET_TMC_FIELD STEPPER=stepper_x FIELD=SGTHRS VALUE=80
-  AUTOTUNE_TMC STEPPER=stepper_y tuning_goal=silent sg4_thrs=80
-  AUTOTUNE_TMC STEPPER=stepper_x tuning_goal=silent sg4_thrs=80
+  SET_TMC_FIELD STEPPER=stepper_y FIELD=SGTHRS VALUE=YOU_HAVE_TO_CALIBRATE_SENSORLESS_HOMING_YOURSELF
+  SET_TMC_FIELD STEPPER=stepper_x FIELD=SGTHRS VALUE=YOU_HAVE_TO_CALIBRATE_SENSORLESS_HOMING_YOURSELF
+  AUTOTUNE_TMC STEPPER=stepper_y tuning_goal=silent sg4_thrs=YOU_HAVE_TO_CALIBRATE_SENSORLESS_HOMING_YOURSELF
+  AUTOTUNE_TMC STEPPER=stepper_x tuning_goal=silent sg4_thrs=YOU_HAVE_TO_CALIBRATE_SENSORLESS_HOMING_YOURSELF
 
 [gcode_macro PERFORMANCE]
 gcode:
   {action_respond_info("Performance activated")}
   SET_VELOCITY_LIMIT CAP=False
-  SET_TMC_FIELD STEPPER=stepper_y FIELD=SGTHRS VALUE=118
-  SET_TMC_FIELD STEPPER=stepper_x FIELD=SGTHRS VALUE=118
-  AUTOTUNE_TMC STEPPER=stepper_y tuning_goal=performance sg4_thrs=118
-  AUTOTUNE_TMC STEPPER=stepper_x tuning_goal=performance sg4_thrs=118
+  SET_TMC_FIELD STEPPER=stepper_y FIELD=SGTHRS VALUE=YOU_HAVE_TO_CALIBRATE_SENSORLESS_HOMING_YOURSELF
+  SET_TMC_FIELD STEPPER=stepper_x FIELD=SGTHRS VALUE=YOU_HAVE_TO_CALIBRATE_SENSORLESS_HOMING_YOURSELF
+  AUTOTUNE_TMC STEPPER=stepper_y tuning_goal=performance sg4_thrs=YOU_HAVE_TO_CALIBRATE_SENSORLESS_HOMING_YOURSELF
+  AUTOTUNE_TMC STEPPER=stepper_x tuning_goal=performance sg4_thrs=YOU_HAVE_TO_CALIBRATE_SENSORLESS_HOMING_YOURSELF
 ```
