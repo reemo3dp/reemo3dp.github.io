@@ -62,19 +62,19 @@ Measure the voltage drop/forward voltage (diode testing) between the HE-LED wire
 
 ## Measurements
 
-| Measurement          | Reemo3dp (working)                | Ben (broken) | KaeAl (magic smoke on IC3) | chrizz (pristine)       |
-| -------------------- | --------------------------------- | ------------ | -------------------------- | ----------------------- |
-| Driver: GND to VDD   | 770kΏ                             | ~= Reemo3dp  | 670kΏ                      | 514-522kΏ               |
-| Driver: GND to DIR   | 20kΏ                              | ~= Reemo3dp  | 141.7kΏ                    | 150kΏ                   |
-| Driver: GND to STEP  | 5mΏ                               | ~= Reemo3dp  | 1.5mΏ                      | 7.38mΏ, extruder 11.5mΏ |
-| Driver: GND to PDN2  | 20kΏ (MKS TMC2209)<br/>- (Siboor) | - (Siboor)   | - (Siboor)                 | - (Siboor)              |
-| Driver: GND to PDN1  | 20kΏ                              | ~= Reemo3dp  | 19.9kΏ                     | 20kΏ                    |
-| Driver: GND to MS2   | 157kΏ                             | ~= Reemo3dp  | 141.5kΏ                    | 133-136kΏ               |
-| Driver: GND to MS1   | 157kΏ                             | ~= Reemo3dp  | 141.6kΏ                    | 134-136kΏ               |
-| Driver: GND to EN    | 789kΏ                             | ~= Reemo3dp  | 676kΏ                      | 511-526kΏ               |
-| Driver: GND to INDEX | 8.23kΏ                            | ~= Reemo3dp  | 8.1kΏ                      | 7.9-8.4kΏ               |
-| Top Cap              | -                                 | inf          | 400kΏ/none                 | 240kΏ/240mΏ ?!          |
-| Bottom Cap           | -                                 | inf          | 60.9Ώ                      | 200kΏ/240mΏ ?!          |
-| Inductor H1          | -                                 | 0.06Ώ        | 0.4Ώ                       | 0.0Ώ                    |
-| Inductor H2          | -                                 | 0.06Ώ        | .4Ώ                        | 0.0Ώ                    |
-| PSU                  | -                                 | -            | Continuity, no resistance  | -                       |
+| Measurement          | Reemo3dp (working)                | Ben (broken) | Ben (2nd MM)   | KaeAl (magic smoke on IC3) | chrizz (pristine)       |
+| -------------------- | --------------------------------- | ------------ | -------------- | -------------------------- | ----------------------- |
+| Driver: GND to VDD   | 770kΏ                             | ~= Reemo3dp  | 720kΏ          | 670kΏ                      | 514-522kΏ               |
+| Driver: GND to DIR   | 20kΏ                              | ~= Reemo3dp  | 147.7kΏ        | 141.7kΏ                    | 150kΏ                   |
+| Driver: GND to STEP  | 5mΏ                               | ~= Reemo3dp  | 4.623mΏ        | 1.5mΏ                      | 7.38mΏ, extruder 11.5mΏ |
+| Driver: GND to PDN2  | 20kΏ (MKS TMC2209)<br/>- (Siboor) | - (Siboor)   | - (Siboor)     | - (Siboor)                 | - (Siboor)              |
+| Driver: GND to PDN1  | 20kΏ                              | ~= Reemo3dp  | 20.14kΏ        | 19.9kΏ                     | 20kΏ                    |
+| Driver: GND to MS2   | 157kΏ                             | ~= Reemo3dp  | 148.2kΏ        | 141.5kΏ                    | 133-136kΏ               |
+| Driver: GND to MS1   | 157kΏ                             | ~= Reemo3dp  | 147.7kΏ        | 141.6kΏ                    | 134-136kΏ               |
+| Driver: GND to EN    | 789kΏ                             | ~= Reemo3dp  | 739kΏ          | 676kΏ                      | 511-526kΏ               |
+| Driver: GND to INDEX | 8.23kΏ                            | ~= Reemo3dp  | 5.3mΏ          | 8.1kΏ                      | 7.9-8.4kΏ               |
+| Top Cap              | -                                 | inf          | 8mΏ - 3.6mΏ    | 400kΏ/none                 | 240kΏ/240mΏ ?!          |
+| Bottom Cap           | -                                 | inf          | 6.3mΏ - 3.43mΏ | 60.9Ώ                      | 200kΏ/240mΏ ?!          |
+| Inductor H1          | -                                 | 0.06Ώ        | 0.2Ώ           | 0.4Ώ                       | 0.0Ώ                    |
+| Inductor H2          | -                                 | 0.06Ώ        | 0.2Ώ           | .4Ώ                        | 0.0Ώ                    |
+| PSU                  | -                                 | -            | -              | Continuity, no resistance  | -                       |
