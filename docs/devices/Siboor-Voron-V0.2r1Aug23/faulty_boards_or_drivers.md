@@ -72,7 +72,7 @@ Measure the voltage drop/forward voltage (diode testing) between the HE-LED wire
 | Driver: GND to MS2   | 157kΏ                             | ~= Reemo3dp  | 148.2kΏ        | 141.5kΏ                    | 133-136kΏ               |
 | Driver: GND to MS1   | 157kΏ                             | ~= Reemo3dp  | 147.7kΏ        | 141.6kΏ                    | 134-136kΏ               |
 | Driver: GND to EN    | 789kΏ                             | ~= Reemo3dp  | 739kΏ          | 676kΏ                      | 511-526kΏ               |
-| Driver: GND to INDEX | 8.23kΏ                            | ~= Reemo3dp  | 5.3mΏ          | 8.1kΏ                      | 7.9-8.4kΏ               |
+| Driver: GND to INDEX | 8.23kΏ                            | ~= Reemo3dp  | 7.84kΏ          | 8.1kΏ                      | 7.9-8.4kΏ               |
 | Top Cap              | -                                 | inf          | 8mΏ - 3.6mΏ    | 400kΏ/none                 | 240kΏ/240mΏ ?!          |
 | Bottom Cap           | -                                 | inf          | 6.3mΏ - 3.43mΏ | 60.9Ώ                      | 200kΏ/240mΏ ?!          |
 | Inductor H1          | -                                 | 0.06Ώ        | 0.2Ώ           | 0.4Ώ                       | 0.0Ώ                    |
