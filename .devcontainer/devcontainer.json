@@ -5,6 +5,8 @@
 	"build": {
 		"dockerfile": "Dockerfile"
 	},
+	"postStartCommand": "pip install -r requirements.txt",
+	"postAttachCommand": "mkdocs serve",
 	"customizations": {
 		"vscode": {
 			"extensions": [

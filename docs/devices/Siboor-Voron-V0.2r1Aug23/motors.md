@@ -1,4 +1,14 @@
-# Autotune Config
+# Motor Settings
+
+## Motor Specs
+
+![35STH52-1204A](./motor_35sth52-1204a.jpg)
+
+![14STH20-1004A](./motor_14sth20-1004a.jpg)
+
+![42STH26-0804A-200](./motor_42sth26-0804a-200.jpg)
+
+## TMC Autotune
 
 From https://github.com/andrewmcgr/klipper_tmc_autotune/issues/63
 

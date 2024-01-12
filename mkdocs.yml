@@ -15,7 +15,7 @@ theme:
     - navigation.indexes
     - content.code.annotate
     - content.code.copy
-    - navigation.tabs
+    #- navigation.tabs
   palette:
     scheme: slate
     primary: purple
