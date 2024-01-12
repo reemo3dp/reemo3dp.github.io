@@ -25,6 +25,39 @@ pin: FAN1
 
 ### [TMC Autotune](./motors.md#tmc-autotune)
 
+### `DUMP_Z_OFFSET` Macro
+
+Goes into `PRINT_END` macro:
+
+```toml
+[gcode_macro DUMP_Z_OFFSET]
+description: Dumps the current Z_OFFSET
+gcode:
+  {action_respond_info("config.settings.stepper_z.position_endstop: {}, gcode_move.homing_origin.z: {}, effective z-offset: {}".format(
+            printer.configfile.settings.stepper_z.position_endstop,
+            printer.gcode_move.homing_origin.z,
+            printer.configfile.settings.stepper_z.position_endstop - printer.gcode_move.homing_origin.z,
+        ))}
+```
+
+### `UNLOAD_FILAMENT_AT_END_OF_PRINT` Macro
+
+```toml
+[gcode_macro PRINT_END]
+gcode:
+  # ...
+  {% if printer["gcode_macro PRINT_END"].unload_filament == True %}
+    G1 E-.8 F2700
+    G1 E-50 F1000
+  {% endif %}
+  M104 S0 ;Turn-off hotend
+
+[gcode_macro UNLOAD_FILAMENT_AT_END_OF_PRINT]
+description: Unload the filament at the end of the print
+gcode:
+  SET_GCODE_VARIABLE macro=PRINT_END variable=unload_filament value=True
+```
+
 ## Additional Hardware
 
 ### [BigTreeTech Smart Filament Sensor V2.0](https://biqu.equipment/products/btt-sfs-v2-0-smart-filament-sensor)
