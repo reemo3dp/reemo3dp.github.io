@@ -46,12 +46,12 @@ Skip, as the kit comes with umbilical PCB
 
 #### `SIBOOR` Page 20 - Spacers for ADXL
 
-If you find it difficult to mount the ADXL, `mumucowface` recommends to leave away the spacer between screw and ADXL. 
+If you find it difficult to mount the ADXL, `mumucowface` recommends to leave away the spacer between screw and ADXL.
 
-!!! info 
+!!! info
 
     It is rumored that while the ADXL on the back will be "good enough", best results are achieved with an accelerometer that is mounted directly on the nozzle (or between nozzle and heatbreak). Tested and working USB accelerometers (with their own MCU) are:
-    
+
     - [FYSETC Nozzle Input Shaper](https://www.fysetc.com/products/fysetc-adxl345-nozzle-pcb-board-nozzle-input-shaper-easy-to-install-high-precision-data-module-for-voron-3d-printers)
     - [BigTreeTech ADXL345 V2.0](https://biqu.equipment/products/adxl-345-accelerometer-board-for-36-stepper-motors?variant=40446852726882)
 
@@ -69,4 +69,4 @@ If you use an ethernet cable, skip this step
 - You will get errors in klipper at this point. Replace the printer.cfg with [Lzhikai/SIBOOR-Voron-0.2-AUG/printer.cfg](https://github.com/Lzhikai/SIBOOR-Voron-0.2-AUG/blob/main/printer.cfg). Copy `V0Display.cfg` from that repository too.
 - You will then get an error about the display mcu not being available. Flash the display now (see <https://github.com/VoronDesign/Voron-Hardware/blob/master/V0_Display/Documentation/Setup_and_Flashing_Guide.md>) and update `V0Display.cfg`, or comment out line 3 in `printer.cfg` for the time being. Flashing could require updating klipper.
 - Once klipper is running, proceed with <https://www.klipper3d.org/Config_checks.html> and <https://docs.vorondesign.com/build/startup/>
-- Siboors `printer.cfg` should be an inspiration at best. You must still do all verification steps as per https://www.klipper3d.org/Config_checks.html and https://docs.vorondesign.com/build/startup/ , especially [calibrate sensorless homing](https://www.klipper3d.org/TMC_Drivers.html#sensorless-homing) and [calibrate the z endpoint](./calibrating_z_height.md)
+- Siboors `printer.cfg` should be an inspiration at best. You must still do all verification steps as per https://www.klipper3d.org/Config_checks.html and https://docs.vorondesign.com/build/startup/ , especially [calibrate sensorless homing](https://www.klipper3d.org/TMC_Drivers.html#sensorless-homing), [bed screws](https://www.klipper3d.org/G-Codes.html#bed_screws_adjust) and [calibrating the z endpoint](https://www.klipper3d.org/G-Codes.html#z_endstop_calibrate)
