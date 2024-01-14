@@ -89,6 +89,7 @@ i2c_address: 119
 
 ## Mods I've installed
 
+- [chirpy2605's Dragonburner with SlideSwipe](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner)
 - [Rainbow on a Matchstick](https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight/Rainbow_on_a_matchstick)
 - [Nevermore Micro V6](https://github.com/nevermore3d/Nevermore_Micro/tree/master/V6)
 - [chirpy2605's Lift-Off Tophat](https://github.com/chirpy2605/voron/tree/main/V0/Lift-Off_Tophat_Hinges) with [my mod that adds a backstop](https://www.printables.com/model/659597-chirpys-v02-lift-off-tophat-hinges-with-backstop)
