@@ -24,5 +24,5 @@
 - The V0 Display comes unflashed
 - Swap the ports for the board-fan and the hotend-fan so the hotend fan can be controlled
 - There's a 5V fan port on the host-side of the gemini
-- Gemini comes with a hid-flash bootloader, so `BOOT1` needs to be `LOW` to put the device into HID-flash mode. (<https://github.com/Arksine/STM32_HID_Bootloader>) – the opposite of how the DFU bootloader works.
+- Gemini comes with a hid-flash bootloader, so `BOOT1` needs to be `HIGH` to put the device into HID-flash mode. (<https://github.com/Arksine/STM32_HID_Bootloader>) – the opposite of how the DFU bootloader works?
 - Klipper on all Fly images is outdated. If you know how to setup kiauh yourself, use [mellow's stock armbian](http://mellow.klipper.cn/#/introduction/downloadimg) image or build your own armbian image using [my patches](https://github.com/reemo3dp/mellowfly-geminipi-armbian).

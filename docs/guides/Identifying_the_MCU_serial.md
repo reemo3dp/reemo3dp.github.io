@@ -3,6 +3,7 @@
 This tutorial guides you through the steps of identifying the serial connection klipper needs to communicate with your mcu. It needs to be done for each mcu in your printer, e.g. for a display, input shaper, klipper expander, etc.
 
 !!! note
+
     Even though they might cover different featues, all MCUs look the same to klipper. A display has GPIO pins, so does the main mcu. Klippy can connect to multiple MCUs at once. A fully loaded Voron V0.2 might have a a main mcu, a V0 Display, an input shaper board and a klipper expander. With all of them connected, your `printer.cfg` must contain four `[mcu]` entries, each with its own `serial` property.
 
 See also https://www.klipper3d.org/Installation.html#configuring-klipper

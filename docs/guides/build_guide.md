@@ -3,7 +3,8 @@
 This is the idealistic process I'm following (when people ask) when working on electronics.
 
 !!! info
-    The checkboxes can be checked, but won't be persisted. If you reload the page, they will be gone.  
+
+    The checkboxes can be checked, but won't be persisted. If you reload the page, they will be gone.
     <input type="checkbox" /> Understood
 
 ## Guiding Principles
@@ -17,6 +18,7 @@ This is the idealistic process I'm following (when people ask) when working on e
 ## Checklists for first power-on
 
 !!! warning
+
     This is a non-exhaustive list of checks! If at any point in time the printer starts acting weird (or starts smoking), turn it off and don't turn it on again.
 
 First power-on happens with minimal periphals, only endstops, drivers, motors, heaters and thermistors connected. No fans, no lights, no probes
@@ -25,10 +27,10 @@ First power-on happens with minimal periphals, only endstops, drivers, motors, h
 - [ ] Motor wire pairs (`AABB` on the pin, so `AA` and `BB`) have continuity
 - [ ] Motor drivers are rotated correctly (e.g. on a Mellow Gemini, DIAG pin is on the top)
 - [ ] Motor drivers are jumped correctly (e.g. TMC2209 on a Gemini should have UART jumped)
-- [ ] All polarities are correct (*duh*)
+- [ ] All polarities are correct (_duh_)
 - [ ] Minimal `printer.cfg` with only stepper definitions, heaters and thermistors in place
 
-After power-on follow <https://www.klipper3d.org/Config_checks.html>:
+After power-on follow <https://www.klipper3d.org/Config_checks.html> and <https://docs.vorondesign.com/build/startup/>:
 
 - [ ] [Verify temperature](https://www.klipper3d.org/Config_checks.html#verify-temperature)
 - [ ] [Verify M112](https://www.klipper3d.org/Config_checks.html#verify-m112)
