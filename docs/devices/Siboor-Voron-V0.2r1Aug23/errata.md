@@ -12,21 +12,29 @@ The method of mounting the Z-Lead-Screw is the same for the kirigami bed
 
 #### `VORON` Page 171 - Hotend LEDs
 
-This is the moment to wire up the `HE-LED`. Thread the wire, then glue the LEDs in place.
+This is the moment to wire up the `HE-LED`. Thread the wire, then glue the LEDs in place. Double check that there is no short on the HE-LED wiring. In Diode-testing, I'm reading `2.5V` (forward-voltage? voltage-drop?) on my HE-LEDs.
 
 #### `VORON` Page 180 - Hotend Tube
 
 Milky PTFE tube for the hotend tube (smaller diameter)
 
-### `SIBOOR` Page 15 - Electronics and cabling
+#### `SIBOOR` Page 15 - Electronics and cabling
 
 !!! danger
 
-    THIS CAN BREAK YOUR BOARD. Be extra vigilant
+    Double check all wiring, do not trust what I or the guides write!
 
 The Kirigami Bed PCB with the Logo Neopixels is displayed from the top down. When pinning your connector, make sure the polarity matches the silk screen on the PCB!
 
+![Kirigami Neopixel wiring from the guide](./errata_kirigami_neopixel.png)
+
 Double-check the fan polarity on the toolhead PCB. Some kits come with the polarity wrong on all fans! Check <https://github.com/VoronDesign/Voron-Hardware/blob/master/V0-Umbilical/Images/Toolhead_PCB_Layout.png> for the PCB layout, and make sure to measure continuity from the pin on the toolhead PCB to the fan connector going into the mainboard.
+
+![Toolhead Wiring form the guide](./errata_toolhead_fans.png)
+
+Pay extra attention to the Umbilical frame PCB, as here, the fan polarity might be swapped for **some**, but not **all** fans!
+
+![FramePCB](./errata_framepcb.png)
 
 #### `VORON` Page 191/`SIBOOR` Page 17 - Back Panel
 
