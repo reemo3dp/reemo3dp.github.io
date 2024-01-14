@@ -18,6 +18,16 @@ This is the moment to wire up the `HE-LED`. Thread the wire, then glue the LEDs 
 
 Milky PTFE tube for the hotend tube (smaller diameter)
 
+### `SIBOOR` Page 15 - Electronics and cabling
+
+!!! danger
+
+    THIS CAN BREAK YOUR BOARD. Be extra vigilant
+
+The Kirigami Bed PCB with the Logo Neopixels is displayed from the top down. When pinning your connector, make sure the polarity matches the silk screen on the PCB!
+
+Double-check the fan polarity on the toolhead PCB. Some kits come with the polarity wrong on all fans! Check <https://github.com/VoronDesign/Voron-Hardware/blob/master/V0-Umbilical/Images/Toolhead_PCB_Layout.png> for the PCB layout, and make sure to measure continuity from the pin on the toolhead PCB to the fan connector going into the mainboard.
+
 #### `VORON` Page 191/`SIBOOR` Page 17 - Back Panel
 
 Flip the panel around. USB Ports to the left, 4 holes on the panel on the top
