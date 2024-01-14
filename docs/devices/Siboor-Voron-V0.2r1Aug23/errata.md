@@ -44,6 +44,17 @@ Flip the panel around. USB Ports to the left, 4 holes on the panel on the top
 
 Skip, as the kit comes with umbilical PCB
 
+#### `SIBOOR` Page 20 - Spacers for ADXL
+
+If you find it difficult to mount the ADXL, `mumucowface` recommends to leave away the spacer between screw and ADXL. 
+
+!!! info 
+
+    It is rumored that while the ADXL on the back will be "good enough", best results are achieved with an accelerometer that is mounted directly on the nozzle (or between nozzle and heatbreak). Tested and working USB accelerometers (with their own MCU) are:
+    
+    - [FYSETC Nozzle Input Shaper](https://www.fysetc.com/products/fysetc-adxl345-nozzle-pcb-board-nozzle-input-shaper-easy-to-install-high-precision-data-module-for-voron-3d-printers)
+    - [BigTreeTech ADXL345 V2.0](https://biqu.equipment/products/adxl-345-accelerometer-board-for-36-stepper-motors?variant=40446852726882)
+
 #### `VORON` Page 227 - Bowden tubes
 
 Clear FEP for the reverse bowden from toolhead to back (larger diameter)
