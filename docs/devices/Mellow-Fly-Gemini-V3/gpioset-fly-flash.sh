@@ -2,14 +2,11 @@
 
 set -euxo pipefail
 
-CHIPSET="// MISSING"
+CHIPSET="1c20800.pinctrl"
 PD4="100"
 PD2="98"
 BOOT1="$PD2"
 RST="$PD4"
-
-echo "CHIPSET MISSING" >&2
-exit -1
 
 gpioset "$CHIPSET" "$BOOT1"=1 --mode=signal
 BOOT1_PID=$!
