@@ -44,7 +44,9 @@ markdown_extensions:
 
 plugins:
   - git-revision-date-localized
-  - glightbox
+  - glightbox:
+      skip_classes:
+      - skip-lightbox  
   - blog:
       blog_dir: quick_notes
       archive: false

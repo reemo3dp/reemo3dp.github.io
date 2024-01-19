@@ -19,7 +19,7 @@ layers:
     heater  20 0 top (0.227,0.427,0.705),(0.113,1,0.168),(1,0.85,0.168),(1.00,0.47,0.00),(1,0.392,0.196),(1,0.313,0.156),(1,0.078,0.078),(1,0,0),(1,0,0)
 ```
 
-![Bed heating from the simulator](./2024-01-19_bed_heater_gradient.webp)
+![Bed heating from the simulator](./2024-01-19_bed_heater_gradient.webp){ .skip-lightbox }
 
 With that, I override `M190` so this always happens when the printer waits for the bed to heat.
 
