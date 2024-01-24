@@ -25,20 +25,20 @@ find_ttys() {
 }
 
 # TTYs will always be at the root level, even if udev is broken
-echo "# Root Dev TTYs"
+echo "###### Root Dev TTYs"
 find /dev -maxdepth 1 \( -name 'ttyUSB*' -o -name 'ttyACM*' \) || true
 echo ""
 
 # Listing all `/dev/serial` symlinks helps identifying name collisions in `by-id`
-echo "# /dev/serial symlinks"
+echo "###### /dev/serial symlinks"
 find /dev/serial -type l -exec file {} \; || true
 echo ""
 
 # Printing `lsusb` potentially shows MCUs in DFU/HID mode
-echo "# lsusb"
+echo "###### lsusb"
 lsusb --tree
 echo ""
 
 # Finally, print all properly initialized TTYs
-echo "# All TTYs"
+echo "###### All TTYs"
 find_ttys
