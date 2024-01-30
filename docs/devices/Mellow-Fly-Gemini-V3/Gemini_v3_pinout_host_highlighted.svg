@@ -4,7 +4,7 @@
    height="331.47mm"
    viewBox="80 -577 769 522"
    version="1.1"
-   id="svg5371"
+   id="svg5373"
    sodipodi:docname="Gemini_v3_pinout_host_highlighted.svg"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -12,9 +12,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs5371" />
+     id="defs5373" />
   <sodipodi:namedview
-     id="namedview5371"
+     id="namedview5373"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.55859399"
-     inkscape:cx="133.37057"
-     inkscape:cy="786.79687"
-     inkscape:window-width="1600"
-     inkscape:window-height="831"
+     inkscape:zoom="0.64256066"
+     inkscape:cx="922.09193"
+     inkscape:cy="626.4"
+     inkscape:window-width="2580"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5371" />
+     inkscape:current-layer="svg5373" />
   <title
      id="title1" />
   <style
@@ -94506,8 +94506,8 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
     <path
        c_fontsize="4.5"
        c_fontfamily=""
-       c_text="PA12"
-       d="M 455 -102.54 L 455 -98.25 M 455 -102.54 L 456.84 -102.54 L 457.45 -102.34 L 457.66 -102.13 L 457.86 -101.72 L 457.86 -101.11 L 457.66 -100.7 L 457.45 -100.5 L 456.84 -100.29 L 455 -100.29 M 460.85 -102.54 L 459.21 -98.25 M 460.85 -102.54 L 462.49 -98.25 M 459.83 -99.68 L 461.87 -99.68 M 463.84 -101.72 L 464.25 -101.93 L 464.86 -102.54 L 464.86 -98.25 M 466.41 -101.52 L 466.41 -101.72 L 466.62 -102.13 L 466.82 -102.34 L 467.23 -102.54 L 468.05 -102.54 L 468.46 -102.34 L 468.66 -102.13 L 468.87 -101.72 L 468.87 -101.31 L 468.66 -100.9 L 468.25 -100.29 L 466.21 -98.25 L 469.07 -98.25"
+       c_text="PB8"
+       d="M 455 -102.54L455 -98.25 M 455 -102.54L456.84 -102.54 L457.45 -102.34 L457.66 -102.13 L457.86 -101.72 L457.86 -101.11 L457.66 -100.7 L457.45 -100.5 L456.84 -100.29 L455 -100.29 M 459.21 -102.54L459.21 -98.25 M 459.21 -102.54L461.05 -102.54 L461.67 -102.34 L461.87 -102.13 L462.08 -101.72 L462.08 -101.31 L461.87 -100.9 L461.67 -100.7 L461.05 -100.5 M 459.21 -100.5L461.05 -100.5 L461.67 -100.29 L461.87 -100.09 L462.08 -99.68 L462.08 -99.06 L461.87 -98.65 L461.67 -98.45 L461.05 -98.25 L459.21 -98.25 M 464.45 -102.54L463.84 -102.34 L463.63 -101.93 L463.63 -101.52 L463.84 -101.11 L464.25 -100.9 L465.06 -100.7 L465.68 -100.5 L466.09 -100.09 L466.29 -99.68 L466.29 -99.06 L466.09 -98.65 L465.88 -98.45 L465.27 -98.25 L464.45 -98.25 L463.84 -98.45 L463.63 -98.65 L463.43 -99.06 L463.43 -99.68 L463.63 -100.09 L464.04 -100.5 L464.65 -100.7 L465.47 -100.9 L465.88 -101.11 L466.09 -101.52 L466.09 -101.93 L465.88 -102.34 L465.27 -102.54 L464.45 -102.54 "
        fill="none"
        stroke-width="0.6"
        id="path4671" />
@@ -94525,8 +94525,8 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
     <path
        c_fontsize="4.5"
        c_fontfamily=""
-       c_text="PA11"
-       d="M 472 -102.54 L 472 -98.25 M 472 -102.54 L 473.84 -102.54 L 474.45 -102.34 L 474.66 -102.13 L 474.86 -101.72 L 474.86 -101.11 L 474.66 -100.7 L 474.45 -100.5 L 473.84 -100.29 L 472 -100.29 M 477.85 -102.54 L 476.21 -98.25 M 477.85 -102.54 L 479.49 -98.25 M 476.83 -99.68 L 478.87 -99.68 M 480.84 -101.72 L 481.25 -101.93 L 481.86 -102.54 L 481.86 -98.25 M 483.21 -101.72 L 483.62 -101.93 L 484.23 -102.54 L 484.23 -98.25"
+       c_text="PB9"
+       d="M 472 -102.54L472 -98.25 M 472 -102.54L473.84 -102.54 L474.45 -102.34 L474.66 -102.13 L474.86 -101.72 L474.86 -101.11 L474.66 -100.7 L474.45 -100.5 L473.84 -100.29 L472 -100.29 M 476.21 -102.54L476.21 -98.25 M 476.21 -102.54L478.05 -102.54 L478.67 -102.34 L478.87 -102.13 L479.08 -101.72 L479.08 -101.31 L478.87 -100.9 L478.67 -100.7 L478.05 -100.5 M 476.21 -100.5L478.05 -100.5 L478.67 -100.29 L478.87 -100.09 L479.08 -99.68 L479.08 -99.06 L478.87 -98.65 L478.67 -98.45 L478.05 -98.25 L476.21 -98.25 M 483.09 -101.11L482.88 -100.5 L482.47 -100.09 L481.86 -99.88 L481.65 -99.88 L481.04 -100.09 L480.63 -100.5 L480.43 -101.11 L480.43 -101.31 L480.63 -101.93 L481.04 -102.34 L481.65 -102.54 L481.86 -102.54 L482.47 -102.34 L482.88 -101.93 L483.09 -101.11 L483.09 -100.09 L482.88 -99.06 L482.47 -98.45 L481.86 -98.25 L481.45 -98.25 L480.84 -98.45 L480.63 -98.86 "
        fill="none"
        stroke-width="0.6"
        id="path4672" />
@@ -94838,6 +94838,44 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
   <g
      c_partid="part_pcbtext"
      c_etype=""
+     c_origin="655,-357"
+     c_rotation="0"
+     c_mirror="0"
+     id="rep58"
+     locked="0"
+     layerid="3"
+     c_shapetype="group">
+    <path
+       c_fontsize="4.13793"
+       c_fontfamily=""
+       c_text="FAN1"
+       d="M 655 -361.18L655 -357.23 M 655 -361.18L657.45 -361.18 M 655 -359.29L656.5 -359.29 M 660.19 -361.18L658.69 -357.23 M 660.19 -361.18L661.7 -357.23 M 659.25 -358.54L661.13 -358.54 M 662.94 -361.18L662.94 -357.23 M 662.94 -361.18L665.57 -357.23 M 665.57 -361.18L665.57 -357.23 M 666.81 -360.42L667.19 -360.61 L667.75 -361.18 L667.75 -357.23 "
+       fill="none"
+       stroke-width="0.68966"
+       id="path4689" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
+     c_origin="654,-382"
+     c_rotation="0"
+     c_mirror="0"
+     id="rep59"
+     locked="0"
+     layerid="3"
+     c_shapetype="group">
+    <path
+       c_fontsize="4.13793"
+       c_fontfamily=""
+       c_text="FAN0"
+       d="M 654 -386.18L654 -382.23 M 654 -386.18L656.45 -386.18 M 654 -384.29L655.5 -384.29 M 659.19 -386.18L657.69 -382.23 M 659.19 -386.18L660.7 -382.23 M 658.25 -383.54L660.13 -383.54 M 661.94 -386.18L661.94 -382.23 M 661.94 -386.18L664.57 -382.23 M 664.57 -386.18L664.57 -382.23 M 666.94 -386.18L666.38 -385.99 L666 -385.42 L665.81 -384.48 L665.81 -383.92 L666 -382.98 L666.38 -382.41 L666.94 -382.23 L667.32 -382.23 L667.88 -382.41 L668.26 -382.98 L668.45 -383.92 L668.45 -384.48 L668.26 -385.42 L667.88 -385.99 L667.32 -386.18 L666.94 -386.18 "
+       fill="none"
+       stroke-width="0.68966"
+       id="path4690" />
+  </g>
+  <g
+     c_partid="part_pcbtext"
+     c_etype=""
      c_origin="388.5,-259.7"
      c_rotation="0"
      c_mirror="0"
@@ -94854,7 +94892,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4689" />
+       id="path4691" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -94875,7 +94913,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4690" />
+       id="path4692" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -94895,7 +94933,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4691" />
+       id="path4693" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -94916,7 +94954,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4692" />
+       id="path4694" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -94936,7 +94974,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4693" />
+       id="path4695" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -94957,7 +94995,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4694" />
+       id="path4696" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -94977,7 +95015,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4695" />
+       id="path4697" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -94998,7 +95036,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4696" />
+       id="path4698" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95018,7 +95056,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4697" />
+       id="path4699" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95039,7 +95077,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4698" />
+       id="path4700" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95060,7 +95098,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4699" />
+       id="path4701" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95081,7 +95119,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4700" />
+       id="path4702" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95102,7 +95140,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4701" />
+       id="path4703" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95123,7 +95161,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4702" />
+       id="path4704" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95144,7 +95182,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4703" />
+       id="path4705" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95165,7 +95203,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4704" />
+       id="path4706" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95186,7 +95224,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4705" />
+       id="path4707" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95207,7 +95245,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4706" />
+       id="path4708" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95228,7 +95266,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4707" />
+       id="path4709" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95249,7 +95287,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4708" />
+       id="path4710" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95269,7 +95307,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4709" />
+       id="path4711" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95290,7 +95328,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4710" />
+       id="path4712" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95310,7 +95348,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4711" />
+       id="path4713" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95331,7 +95369,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4712" />
+       id="path4714" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95351,7 +95389,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4713" />
+       id="path4715" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95372,7 +95410,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4714" />
+       id="path4716" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95392,7 +95430,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4715" />
+       id="path4717" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95413,7 +95451,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4716" />
+       id="path4718" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95433,7 +95471,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4717" />
+       id="path4719" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95454,7 +95492,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4718" />
+       id="path4720" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95474,7 +95512,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4719" />
+       id="path4721" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95495,7 +95533,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4720" />
+       id="path4722" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95515,7 +95553,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4721" />
+       id="path4723" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95536,7 +95574,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4722" />
+       id="path4724" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95556,7 +95594,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4723" />
+       id="path4725" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95577,7 +95615,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        stroke="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path4724" />
+       id="path4726" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95597,7 +95635,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4725" />
+       id="path4727" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95618,7 +95656,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4726" />
+       id="path4728" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95638,7 +95676,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4727" />
+       id="path4729" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95659,7 +95697,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4728" />
+       id="path4730" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95679,7 +95717,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4729" />
+       id="path4731" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95700,7 +95738,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4730" />
+       id="path4732" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95721,7 +95759,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4731" />
+       id="path4733" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95742,7 +95780,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4732" />
+       id="path4734" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95763,7 +95801,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4733" />
+       id="path4735" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95784,7 +95822,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4734" />
+       id="path4736" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95805,7 +95843,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4735" />
+       id="path4737" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95826,7 +95864,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4736" />
+       id="path4738" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95847,7 +95885,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4737" />
+       id="path4739" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95868,7 +95906,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4738" />
+       id="path4740" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95889,7 +95927,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4739" />
+       id="path4741" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95910,7 +95948,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4740" />
+       id="path4742" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95931,7 +95969,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4741" />
+       id="path4743" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95952,7 +95990,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4742" />
+       id="path4744" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95973,7 +96011,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4743" />
+       id="path4745" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -95994,7 +96032,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4744" />
+       id="path4746" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96015,7 +96053,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4745" />
+       id="path4747" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96036,7 +96074,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4746" />
+       id="path4748" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96057,7 +96095,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4747" />
+       id="path4749" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96078,7 +96116,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4748" />
+       id="path4750" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96099,7 +96137,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4749" />
+       id="path4751" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96120,7 +96158,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4750" />
+       id="path4752" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96141,7 +96179,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4751" />
+       id="path4753" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96162,7 +96200,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4752" />
+       id="path4754" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96183,7 +96221,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4753" />
+       id="path4755" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96204,7 +96242,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        stroke="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4754" />
+       id="path4756" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96225,7 +96263,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4755" />
+       id="path4757" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96246,7 +96284,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        stroke="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4756" />
+       id="path4758" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96267,7 +96305,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4757" />
+       id="path4759" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96288,7 +96326,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4758" />
+       id="path4760" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96309,7 +96347,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4759" />
+       id="path4761" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96330,7 +96368,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4760" />
+       id="path4762" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96351,7 +96389,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4761" />
+       id="path4763" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96372,7 +96410,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4762" />
+       id="path4764" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96393,7 +96431,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4763" />
+       id="path4765" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96414,7 +96452,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4764" />
+       id="path4766" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96435,7 +96473,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4765" />
+       id="path4767" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96456,7 +96494,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4766" />
+       id="path4768" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96477,7 +96515,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4767" />
+       id="path4769" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96498,7 +96536,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4768" />
+       id="path4770" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96519,7 +96557,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4769" />
+       id="path4771" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96540,7 +96578,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4770" />
+       id="path4772" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96561,7 +96599,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4771" />
+       id="path4773" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96582,7 +96620,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4772" />
+       id="path4774" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96603,7 +96641,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4773" />
+       id="path4775" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96624,7 +96662,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4774" />
+       id="path4776" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96645,7 +96683,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4775" />
+       id="path4777" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96666,7 +96704,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4776" />
+       id="path4778" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96687,7 +96725,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4777" />
+       id="path4779" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96708,7 +96746,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4778" />
+       id="path4780" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96729,7 +96767,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4779" />
+       id="path4781" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96750,7 +96788,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4780" />
+       id="path4782" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96771,7 +96809,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4781" />
+       id="path4783" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96792,7 +96830,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4782" />
+       id="path4784" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96813,7 +96851,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4783" />
+       id="path4785" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96834,7 +96872,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4784" />
+       id="path4786" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96855,7 +96893,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4785" />
+       id="path4787" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96876,7 +96914,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4786" />
+       id="path4788" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96896,7 +96934,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4787" />
+       id="path4789" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96917,7 +96955,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        stroke="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4788" />
+       id="path4790" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96928,16 +96966,17 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
      id="rep12044"
      locked="0"
      layerid="3"
-     c_shapetype="group">
+     c_shapetype="group"
+     display="none">
     <path
        c_fontsize="6"
        c_fontfamily=""
-       c_text="FAN3"
-       d="M 649.9 -389.86L649.9 -384.13 M 649.9 -389.86L653.45 -389.86 M 649.9 -387.13L652.09 -387.13 M 657.43 -389.86L655.25 -384.13 M 657.43 -389.86L659.61 -384.13 M 656.07 -386.04L658.79 -386.04 M 661.41 -389.86L661.41 -384.13 M 661.41 -389.86L665.23 -384.13 M 665.23 -389.86L665.23 -384.13 M 667.58 -389.86L670.58 -389.86 L668.94 -387.67 L669.76 -387.67 L670.3 -387.4 L670.58 -387.13 L670.85 -386.31 L670.85 -385.76 L670.58 -384.95 L670.03 -384.4 L669.21 -384.13 L668.39 -384.13 L667.58 -384.4 L667.3 -384.67 L667.03 -385.22 "
+       c_text="FAN0"
+       d="M 649.9 -389.86L649.9 -384.13 M 649.9 -389.86L653.45 -389.86 M 649.9 -387.13L652.09 -387.13 M 657.43 -389.86L655.25 -384.13 M 657.43 -389.86L659.61 -384.13 M 656.07 -386.04L658.79 -386.04 M 661.41 -389.86L661.41 -384.13 M 661.41 -389.86L665.23 -384.13 M 665.23 -389.86L665.23 -384.13 M 668.67 -389.86L667.85 -389.58 L667.3 -388.76 L667.03 -387.4 L667.03 -386.58 L667.3 -385.22 L667.85 -384.4 L668.67 -384.13 L669.21 -384.13 L670.03 -384.4 L670.58 -385.22 L670.85 -386.58 L670.85 -387.4 L670.58 -388.76 L670.03 -389.58 L669.21 -389.86 L668.67 -389.86 "
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4789" />
+       id="path4791" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96958,7 +96997,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4790" />
+       id="path4792" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96978,7 +97017,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4791" />
+       id="path4793" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -96999,7 +97038,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4792" />
+       id="path4794" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97020,7 +97059,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4793" />
+       id="path4795" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97041,7 +97080,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        stroke="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4794" />
+       id="path4796" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97062,7 +97101,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4795" />
+       id="path4797" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97083,7 +97122,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        stroke="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4796" />
+       id="path4798" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97104,7 +97143,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4797" />
+       id="path4799" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97125,7 +97164,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4798" />
+       id="path4800" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97146,7 +97185,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4799" />
+       id="path4801" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97167,7 +97206,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4800" />
+       id="path4802" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97188,7 +97227,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4801" />
+       id="path4803" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97209,7 +97248,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4802" />
+       id="path4804" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97230,7 +97269,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4803" />
+       id="path4805" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97251,7 +97290,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4804" />
+       id="path4806" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97272,7 +97311,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4805" />
+       id="path4807" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97293,7 +97332,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4806" />
+       id="path4808" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97314,7 +97353,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4807" />
+       id="path4809" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97335,7 +97374,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4808" />
+       id="path4810" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97356,7 +97395,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4809" />
+       id="path4811" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97377,7 +97416,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4810" />
+       id="path4812" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97398,7 +97437,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4811" />
+       id="path4813" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97419,7 +97458,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4812" />
+       id="path4814" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97440,7 +97479,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4813" />
+       id="path4815" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97460,7 +97499,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4814" />
+       id="path4816" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97481,7 +97520,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4815" />
+       id="path4817" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97502,7 +97541,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4816" />
+       id="path4818" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97523,7 +97562,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4817" />
+       id="path4819" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97544,7 +97583,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4818" />
+       id="path4820" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97565,7 +97604,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4819" />
+       id="path4821" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97586,7 +97625,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4820" />
+       id="path4822" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97607,7 +97646,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4821" />
+       id="path4823" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97628,7 +97667,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4822" />
+       id="path4824" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97649,7 +97688,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4823" />
+       id="path4825" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97670,7 +97709,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4824" />
+       id="path4826" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97691,7 +97730,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4825" />
+       id="path4827" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97712,7 +97751,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4826" />
+       id="path4828" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97733,7 +97772,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4827" />
+       id="path4829" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97754,7 +97793,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4828" />
+       id="path4830" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97775,7 +97814,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4829" />
+       id="path4831" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97796,7 +97835,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4830" />
+       id="path4832" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97817,7 +97856,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4831" />
+       id="path4833" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97838,7 +97877,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4832" />
+       id="path4834" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97859,7 +97898,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4833" />
+       id="path4835" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97880,7 +97919,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4834" />
+       id="path4836" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97901,7 +97940,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4835" />
+       id="path4837" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97922,7 +97961,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4836" />
+       id="path4838" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97943,7 +97982,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4837" />
+       id="path4839" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97964,7 +98003,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4838" />
+       id="path4840" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -97985,7 +98024,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4839" />
+       id="path4841" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98006,7 +98045,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4840" />
+       id="path4842" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98027,7 +98066,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4841" />
+       id="path4843" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98048,7 +98087,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4842" />
+       id="path4844" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98069,7 +98108,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4843" />
+       id="path4845" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98089,7 +98128,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4844" />
+       id="path4846" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98110,7 +98149,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4845" />
+       id="path4847" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98131,7 +98170,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4846" />
+       id="path4848" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98152,7 +98191,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4847" />
+       id="path4849" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98173,7 +98212,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4848" />
+       id="path4850" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98194,7 +98233,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4849" />
+       id="path4851" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98214,7 +98253,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4850" />
+       id="path4852" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98235,7 +98274,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4851" />
+       id="path4853" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98256,7 +98295,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4852" />
+       id="path4854" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98277,7 +98316,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4853" />
+       id="path4855" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98298,7 +98337,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4854" />
+       id="path4856" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98319,7 +98358,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4855" />
+       id="path4857" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98340,7 +98379,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4856" />
+       id="path4858" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98361,7 +98400,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4857" />
+       id="path4859" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98382,7 +98421,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4858" />
+       id="path4860" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98403,7 +98442,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4859" />
+       id="path4861" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98424,7 +98463,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4860" />
+       id="path4862" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98445,7 +98484,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4861" />
+       id="path4863" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98465,7 +98504,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4862" />
+       id="path4864" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98486,7 +98525,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4863" />
+       id="path4865" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98507,7 +98546,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4864" />
+       id="path4866" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98528,7 +98567,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4865" />
+       id="path4867" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98549,7 +98588,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4866" />
+       id="path4868" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98570,7 +98609,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4867" />
+       id="path4869" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98591,7 +98630,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4868" />
+       id="path4870" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98612,7 +98651,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        stroke="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4869" />
+       id="path4871" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98633,7 +98672,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4870" />
+       id="path4872" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98654,7 +98693,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        stroke="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4871" />
+       id="path4873" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98675,7 +98714,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path4872" />
+       id="path4874" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98696,7 +98735,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        stroke="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4873" />
+       id="path4875" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98716,7 +98755,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path4874" />
+       id="path4876" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98737,7 +98776,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path4875" />
+       id="path4877" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98757,7 +98796,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4876" />
+       id="path4878" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98778,7 +98817,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_name"
-       id="path4877" />
+       id="path4879" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98798,7 +98837,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4878" />
+       id="path4880" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98819,7 +98858,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4879" />
+       id="path4881" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98839,7 +98878,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4880" />
+       id="path4882" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98860,7 +98899,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4881" />
+       id="path4883" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98880,7 +98919,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4882" />
+       id="path4884" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98901,7 +98940,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4883" />
+       id="path4885" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98921,7 +98960,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4884" />
+       id="path4886" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98942,7 +98981,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4885" />
+       id="path4887" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98962,7 +99001,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4886" />
+       id="path4888" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -98983,7 +99022,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4887" />
+       id="path4889" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99003,7 +99042,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4888" />
+       id="path4890" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99024,7 +99063,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path4889" />
+       id="path4891" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99044,7 +99083,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4890" />
+       id="path4892" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99065,7 +99104,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path4891" />
+       id="path4893" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99085,7 +99124,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4892" />
+       id="path4894" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99106,7 +99145,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4893" />
+       id="path4895" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99126,7 +99165,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4894" />
+       id="path4896" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99147,7 +99186,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4895" />
+       id="path4897" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99167,7 +99206,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4896" />
+       id="path4898" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99188,7 +99227,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4897" />
+       id="path4899" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99208,7 +99247,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4898" />
+       id="path4900" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99229,7 +99268,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_name"
-       id="path4899" />
+       id="path4901" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99249,7 +99288,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4900" />
+       id="path4902" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99270,7 +99309,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_name"
-       id="path4901" />
+       id="path4903" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99290,7 +99329,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4902" />
+       id="path4904" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99311,7 +99350,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4903" />
+       id="path4905" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99331,7 +99370,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4904" />
+       id="path4906" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99352,7 +99391,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4905" />
+       id="path4907" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99372,7 +99411,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4906" />
+       id="path4908" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99393,7 +99432,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4907" />
+       id="path4909" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99413,7 +99452,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4908" />
+       id="path4910" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99434,7 +99473,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4909" />
+       id="path4911" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99455,7 +99494,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4910" />
+       id="path4912" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99476,7 +99515,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4911" />
+       id="path4913" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99496,7 +99535,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4912" />
+       id="path4914" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99517,7 +99556,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4913" />
+       id="path4915" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99537,7 +99576,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4914" />
+       id="path4916" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99558,7 +99597,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4915" />
+       id="path4917" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99578,7 +99617,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4916" />
+       id="path4918" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99599,7 +99638,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4917" />
+       id="path4919" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99619,7 +99658,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4918" />
+       id="path4920" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99640,7 +99679,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4919" />
+       id="path4921" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99660,7 +99699,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4920" />
+       id="path4922" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99681,7 +99720,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4921" />
+       id="path4923" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99701,7 +99740,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4922" />
+       id="path4924" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99722,7 +99761,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4923" />
+       id="path4925" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99742,7 +99781,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4924" />
+       id="path4926" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99763,7 +99802,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4925" />
+       id="path4927" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99783,7 +99822,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4926" />
+       id="path4928" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99804,7 +99843,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4927" />
+       id="path4929" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99824,7 +99863,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4928" />
+       id="path4930" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99845,7 +99884,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4929" />
+       id="path4931" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99865,7 +99904,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4930" />
+       id="path4932" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99886,7 +99925,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4931" />
+       id="path4933" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99906,7 +99945,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4932" />
+       id="path4934" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99927,7 +99966,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        stroke="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4933" />
+       id="path4935" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99947,7 +99986,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4934" />
+       id="path4936" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99968,7 +100007,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4935" />
+       id="path4937" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -99988,7 +100027,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4936" />
+       id="path4938" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100009,7 +100048,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4937" />
+       id="path4939" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100029,7 +100068,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4938" />
+       id="path4940" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100050,7 +100089,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4939" />
+       id="path4941" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100070,7 +100109,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4940" />
+       id="path4942" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100091,7 +100130,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4941" />
+       id="path4943" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100111,7 +100150,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4942" />
+       id="path4944" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100132,7 +100171,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4943" />
+       id="path4945" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100152,7 +100191,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4944" />
+       id="path4946" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100173,7 +100212,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4945" />
+       id="path4947" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100193,7 +100232,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4946" />
+       id="path4948" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100214,7 +100253,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4947" />
+       id="path4949" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100234,7 +100273,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4948" />
+       id="path4950" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100255,7 +100294,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4949" />
+       id="path4951" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100275,7 +100314,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4950" />
+       id="path4952" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100296,7 +100335,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4951" />
+       id="path4953" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100316,7 +100355,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4952" />
+       id="path4954" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100337,7 +100376,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4953" />
+       id="path4955" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100357,7 +100396,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4954" />
+       id="path4956" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100378,7 +100417,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4955" />
+       id="path4957" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100398,7 +100437,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4956" />
+       id="path4958" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100419,7 +100458,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4957" />
+       id="path4959" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100439,7 +100478,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4958" />
+       id="path4960" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100460,7 +100499,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4959" />
+       id="path4961" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100480,7 +100519,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4960" />
+       id="path4962" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100501,7 +100540,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4961" />
+       id="path4963" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100521,7 +100560,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4962" />
+       id="path4964" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100542,7 +100581,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4963" />
+       id="path4965" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100562,7 +100601,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4964" />
+       id="path4966" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100583,7 +100622,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4965" />
+       id="path4967" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100603,7 +100642,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4966" />
+       id="path4968" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100624,7 +100663,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4967" />
+       id="path4969" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100644,7 +100683,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4968" />
+       id="path4970" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100665,7 +100704,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4969" />
+       id="path4971" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100685,7 +100724,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4970" />
+       id="path4972" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100706,7 +100745,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4971" />
+       id="path4973" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100726,7 +100765,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4972" />
+       id="path4974" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100747,7 +100786,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4973" />
+       id="path4975" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100767,7 +100806,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4974" />
+       id="path4976" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100788,7 +100827,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4975" />
+       id="path4977" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100809,7 +100848,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4976" />
+       id="path4978" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100830,7 +100869,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4977" />
+       id="path4979" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100850,7 +100889,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4978" />
+       id="path4980" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100871,7 +100910,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4979" />
+       id="path4981" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100891,7 +100930,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4980" />
+       id="path4982" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100912,7 +100951,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4981" />
+       id="path4983" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100932,7 +100971,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4982" />
+       id="path4984" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100953,7 +100992,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4983" />
+       id="path4985" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100973,7 +101012,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4984" />
+       id="path4986" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -100994,7 +101033,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4985" />
+       id="path4987" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101014,7 +101053,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4986" />
+       id="path4988" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101035,7 +101074,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4987" />
+       id="path4989" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101055,7 +101094,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4988" />
+       id="path4990" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101076,7 +101115,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4989" />
+       id="path4991" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101096,7 +101135,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4990" />
+       id="path4992" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101117,7 +101156,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4991" />
+       id="path4993" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101137,7 +101176,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4992" />
+       id="path4994" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101158,7 +101197,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4993" />
+       id="path4995" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101178,7 +101217,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4994" />
+       id="path4996" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101199,7 +101238,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4995" />
+       id="path4997" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101219,7 +101258,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4996" />
+       id="path4998" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101240,7 +101279,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4997" />
+       id="path4999" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101260,7 +101299,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path4998" />
+       id="path5000" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101281,7 +101320,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path4999" />
+       id="path5001" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101301,7 +101340,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5000" />
+       id="path5002" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101322,7 +101361,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5001" />
+       id="path5003" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101342,7 +101381,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5002" />
+       id="path5004" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101363,7 +101402,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5003" />
+       id="path5005" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101383,7 +101422,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5004" />
+       id="path5006" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101404,7 +101443,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5005" />
+       id="path5007" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101424,7 +101463,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5006" />
+       id="path5008" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101445,7 +101484,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5007" />
+       id="path5009" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101465,7 +101504,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5008" />
+       id="path5010" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101486,7 +101525,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5009" />
+       id="path5011" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101506,7 +101545,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5010" />
+       id="path5012" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101527,7 +101566,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5011" />
+       id="path5013" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101547,7 +101586,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5012" />
+       id="path5014" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101568,7 +101607,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5013" />
+       id="path5015" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101588,7 +101627,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5014" />
+       id="path5016" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101609,7 +101648,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5015" />
+       id="path5017" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101630,7 +101669,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5016" />
+       id="path5018" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101651,7 +101690,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5017" />
+       id="path5019" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101671,7 +101710,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5018" />
+       id="path5020" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101692,7 +101731,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5019" />
+       id="path5021" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101712,7 +101751,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5020" />
+       id="path5022" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101733,7 +101772,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5021" />
+       id="path5023" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101753,7 +101792,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5022" />
+       id="path5024" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101774,7 +101813,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5023" />
+       id="path5025" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101794,7 +101833,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5024" />
+       id="path5026" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101815,7 +101854,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5025" />
+       id="path5027" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101835,7 +101874,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5026" />
+       id="path5028" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101856,7 +101895,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5027" />
+       id="path5029" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101876,7 +101915,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5028" />
+       id="path5030" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101897,7 +101936,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5029" />
+       id="path5031" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101917,7 +101956,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5030" />
+       id="path5032" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101938,7 +101977,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5031" />
+       id="path5033" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101958,7 +101997,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5032" />
+       id="path5034" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101979,7 +102018,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5033" />
+       id="path5035" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -101999,7 +102038,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5034" />
+       id="path5036" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102020,7 +102059,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5035" />
+       id="path5037" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102040,7 +102079,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5036" />
+       id="path5038" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102061,7 +102100,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5037" />
+       id="path5039" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102081,7 +102120,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5038" />
+       id="path5040" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102102,7 +102141,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5039" />
+       id="path5041" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102122,7 +102161,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5040" />
+       id="path5042" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102143,7 +102182,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5041" />
+       id="path5043" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102163,7 +102202,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5042" />
+       id="path5044" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102184,7 +102223,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5043" />
+       id="path5045" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102204,7 +102243,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5044" />
+       id="path5046" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102225,7 +102264,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5045" />
+       id="path5047" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102245,7 +102284,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5046" />
+       id="path5048" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102266,7 +102305,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5047" />
+       id="path5049" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102286,7 +102325,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5048" />
+       id="path5050" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102307,7 +102346,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5049" />
+       id="path5051" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102327,7 +102366,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5050" />
+       id="path5052" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102348,7 +102387,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5051" />
+       id="path5053" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102368,7 +102407,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5052" />
+       id="path5054" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102389,7 +102428,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5053" />
+       id="path5055" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102409,7 +102448,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5054" />
+       id="path5056" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102430,7 +102469,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5055" />
+       id="path5057" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102450,7 +102489,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5056" />
+       id="path5058" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102471,7 +102510,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5057" />
+       id="path5059" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102491,7 +102530,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5058" />
+       id="path5060" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102512,7 +102551,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5059" />
+       id="path5061" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102532,7 +102571,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5060" />
+       id="path5062" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102553,7 +102592,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5061" />
+       id="path5063" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102573,7 +102612,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.6"
        c_note="note_pre"
-       id="path5062" />
+       id="path5064" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102594,7 +102633,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5063" />
+       id="path5065" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102615,7 +102654,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5064" />
+       id="path5066" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102636,7 +102675,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5065" />
+       id="path5067" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102657,7 +102696,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5066" />
+       id="path5068" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102678,7 +102717,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5067" />
+       id="path5069" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102699,7 +102738,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5068" />
+       id="path5070" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102720,7 +102759,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5069" />
+       id="path5071" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102741,7 +102780,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5070" />
+       id="path5072" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102762,7 +102801,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5071" />
+       id="path5073" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102783,7 +102822,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5072" />
+       id="path5074" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102804,7 +102843,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5073" />
+       id="path5075" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102825,7 +102864,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5074" />
+       id="path5076" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102846,7 +102885,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5075" />
+       id="path5077" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102867,7 +102906,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5076" />
+       id="path5078" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102888,7 +102927,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5077" />
+       id="path5079" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102909,7 +102948,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5078" />
+       id="path5080" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102930,7 +102969,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5079" />
+       id="path5081" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102951,7 +102990,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5080" />
+       id="path5082" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102972,7 +103011,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5081" />
+       id="path5083" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -102993,7 +103032,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5082" />
+       id="path5084" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103014,7 +103053,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5083" />
+       id="path5085" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103035,7 +103074,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5084" />
+       id="path5086" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103056,7 +103095,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5085" />
+       id="path5087" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103077,7 +103116,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5086" />
+       id="path5088" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103098,7 +103137,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5087" />
+       id="path5089" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103119,7 +103158,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5088" />
+       id="path5090" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103140,7 +103179,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5089" />
+       id="path5091" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103161,7 +103200,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5090" />
+       id="path5092" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103182,7 +103221,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5091" />
+       id="path5093" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103203,7 +103242,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5092" />
+       id="path5094" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103224,7 +103263,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5093" />
+       id="path5095" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103245,7 +103284,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5094" />
+       id="path5096" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103266,7 +103305,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5095" />
+       id="path5097" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103287,7 +103326,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5096" />
+       id="path5098" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103308,7 +103347,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5097" />
+       id="path5099" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103329,7 +103368,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5098" />
+       id="path5100" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103350,7 +103389,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5099" />
+       id="path5101" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103371,7 +103410,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5100" />
+       id="path5102" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103392,7 +103431,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5101" />
+       id="path5103" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103413,7 +103452,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5102" />
+       id="path5104" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103434,7 +103473,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5103" />
+       id="path5105" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103455,7 +103494,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5104" />
+       id="path5106" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103476,7 +103515,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5105" />
+       id="path5107" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103497,7 +103536,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5106" />
+       id="path5108" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103518,7 +103557,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5107" />
+       id="path5109" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103539,7 +103578,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5108" />
+       id="path5110" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103560,7 +103599,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5109" />
+       id="path5111" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103581,7 +103620,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5110" />
+       id="path5112" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103602,7 +103641,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5111" />
+       id="path5113" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103623,7 +103662,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5112" />
+       id="path5114" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103644,7 +103683,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5113" />
+       id="path5115" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103665,7 +103704,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5114" />
+       id="path5116" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103686,7 +103725,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5115" />
+       id="path5117" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103707,7 +103746,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5116" />
+       id="path5118" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103728,7 +103767,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5117" />
+       id="path5119" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103749,7 +103788,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5118" />
+       id="path5120" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103770,7 +103809,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5119" />
+       id="path5121" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103791,7 +103830,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5120" />
+       id="path5122" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103812,7 +103851,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5121" />
+       id="path5123" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103833,7 +103872,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5122" />
+       id="path5124" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103854,7 +103893,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5123" />
+       id="path5125" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103875,7 +103914,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5124" />
+       id="path5126" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103896,7 +103935,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5125" />
+       id="path5127" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103917,7 +103956,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5126" />
+       id="path5128" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103938,7 +103977,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5127" />
+       id="path5129" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103959,7 +103998,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5128" />
+       id="path5130" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -103980,7 +104019,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5129" />
+       id="path5131" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104001,7 +104040,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5130" />
+       id="path5132" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104022,7 +104061,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5131" />
+       id="path5133" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104043,7 +104082,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5132" />
+       id="path5134" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104064,7 +104103,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5133" />
+       id="path5135" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104085,7 +104124,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5134" />
+       id="path5136" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104106,7 +104145,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5135" />
+       id="path5137" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104127,7 +104166,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5136" />
+       id="path5138" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104148,7 +104187,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5137" />
+       id="path5139" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104169,7 +104208,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5138" />
+       id="path5140" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104190,7 +104229,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5139" />
+       id="path5141" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104211,7 +104250,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5140" />
+       id="path5142" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104232,7 +104271,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5141" />
+       id="path5143" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104253,7 +104292,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5142" />
+       id="path5144" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104274,7 +104313,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5143" />
+       id="path5145" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104295,7 +104334,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5144" />
+       id="path5146" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104316,7 +104355,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5145" />
+       id="path5147" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104337,7 +104376,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5146" />
+       id="path5148" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104358,7 +104397,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5147" />
+       id="path5149" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104379,7 +104418,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5148" />
+       id="path5150" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104400,7 +104439,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5149" />
+       id="path5151" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104421,7 +104460,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5150" />
+       id="path5152" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104442,7 +104481,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5151" />
+       id="path5153" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104463,7 +104502,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5152" />
+       id="path5154" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104484,7 +104523,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5153" />
+       id="path5155" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104505,7 +104544,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5154" />
+       id="path5156" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104526,7 +104565,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5155" />
+       id="path5157" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104547,7 +104586,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5156" />
+       id="path5158" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104568,7 +104607,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5157" />
+       id="path5159" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104589,7 +104628,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5158" />
+       id="path5160" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104610,7 +104649,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5159" />
+       id="path5161" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104631,7 +104670,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5160" />
+       id="path5162" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104652,7 +104691,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5161" />
+       id="path5163" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104673,7 +104712,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5162" />
+       id="path5164" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104694,7 +104733,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5163" />
+       id="path5165" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104715,7 +104754,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5164" />
+       id="path5166" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104736,7 +104775,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5165" />
+       id="path5167" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104757,7 +104796,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5166" />
+       id="path5168" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104778,7 +104817,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5167" />
+       id="path5169" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104799,7 +104838,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_pre"
-       id="path5168" />
+       id="path5170" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104820,7 +104859,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5169" />
+       id="path5171" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104840,7 +104879,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5170" />
+       id="path5172" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104861,7 +104900,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="1"
        c_note="note_name"
-       id="path5171" />
+       id="path5173" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104882,7 +104921,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5172" />
+       id="path5174" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104903,7 +104942,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        stroke="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5173" />
+       id="path5175" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104924,7 +104963,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5174" />
+       id="path5176" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104945,7 +104984,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        stroke="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5175" />
+       id="path5177" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104966,7 +105005,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5176" />
+       id="path5178" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -104987,7 +105026,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5177" />
+       id="path5179" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105008,7 +105047,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5178" />
+       id="path5180" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105029,7 +105068,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5179" />
+       id="path5181" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105050,7 +105089,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5180" />
+       id="path5182" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105071,7 +105110,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5181" />
+       id="path5183" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105092,7 +105131,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5182" />
+       id="path5184" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105113,7 +105152,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5183" />
+       id="path5185" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105134,7 +105173,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5184" />
+       id="path5186" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105155,7 +105194,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5185" />
+       id="path5187" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105176,7 +105215,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5186" />
+       id="path5188" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105197,7 +105236,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5187" />
+       id="path5189" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105218,7 +105257,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5188" />
+       id="path5190" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105239,7 +105278,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5189" />
+       id="path5191" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105260,7 +105299,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5190" />
+       id="path5192" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105281,7 +105320,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5191" />
+       id="path5193" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105302,7 +105341,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5192" />
+       id="path5194" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105323,7 +105362,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5193" />
+       id="path5195" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105344,7 +105383,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5194" />
+       id="path5196" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105365,7 +105404,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5195" />
+       id="path5197" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105386,7 +105425,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5196" />
+       id="path5198" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105407,7 +105446,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5197" />
+       id="path5199" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105428,7 +105467,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5198" />
+       id="path5200" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105449,7 +105488,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5199" />
+       id="path5201" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105470,7 +105509,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5200" />
+       id="path5202" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105491,7 +105530,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5201" />
+       id="path5203" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105512,7 +105551,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5202" />
+       id="path5204" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105533,7 +105572,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5203" />
+       id="path5205" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105554,7 +105593,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5204" />
+       id="path5206" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105575,7 +105614,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5205" />
+       id="path5207" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105596,7 +105635,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5206" />
+       id="path5208" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105617,7 +105656,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5207" />
+       id="path5209" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105638,7 +105677,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5208" />
+       id="path5210" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105659,7 +105698,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5209" />
+       id="path5211" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105679,7 +105718,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5210" />
+       id="path5212" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105700,7 +105739,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        stroke="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5211" />
+       id="path5213" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105721,7 +105760,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5212" />
+       id="path5214" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105742,7 +105781,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5213" />
+       id="path5215" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105762,7 +105801,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5214" />
+       id="path5216" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105783,7 +105822,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5215" />
+       id="path5217" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105803,7 +105842,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5216" />
+       id="path5218" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105824,7 +105863,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5217" />
+       id="path5219" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105845,7 +105884,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5218" />
+       id="path5220" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105866,7 +105905,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5219" />
+       id="path5221" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105887,7 +105926,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5220" />
+       id="path5222" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105908,7 +105947,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5221" />
+       id="path5223" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105928,7 +105967,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5222" />
+       id="path5224" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105949,7 +105988,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5223" />
+       id="path5225" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105970,7 +106009,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5224" />
+       id="path5226" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -105991,7 +106030,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5225" />
+       id="path5227" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106012,7 +106051,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5226" />
+       id="path5228" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106033,7 +106072,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5227" />
+       id="path5229" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106053,7 +106092,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5228" />
+       id="path5230" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106074,7 +106113,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5229" />
+       id="path5231" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106094,7 +106133,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5230" />
+       id="path5232" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106115,7 +106154,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5231" />
+       id="path5233" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106136,7 +106175,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5232" />
+       id="path5234" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106157,7 +106196,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5233" />
+       id="path5235" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106178,7 +106217,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5234" />
+       id="path5236" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106199,7 +106238,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5235" />
+       id="path5237" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106220,7 +106259,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5236" />
+       id="path5238" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106241,7 +106280,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5237" />
+       id="path5239" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106262,7 +106301,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5238" />
+       id="path5240" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106283,7 +106322,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5239" />
+       id="path5241" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106304,7 +106343,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5240" />
+       id="path5242" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106325,7 +106364,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5241" />
+       id="path5243" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106346,7 +106385,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5242" />
+       id="path5244" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106367,7 +106406,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5243" />
+       id="path5245" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106388,7 +106427,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5244" />
+       id="path5246" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106409,7 +106448,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5245" />
+       id="path5247" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106430,7 +106469,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5246" />
+       id="path5248" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106451,7 +106490,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5247" />
+       id="path5249" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106472,7 +106511,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5248" />
+       id="path5250" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106493,7 +106532,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5249" />
+       id="path5251" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106514,7 +106553,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5250" />
+       id="path5252" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106535,7 +106574,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5251" />
+       id="path5253" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106556,7 +106595,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5252" />
+       id="path5254" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106577,7 +106616,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5253" />
+       id="path5255" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106598,7 +106637,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5254" />
+       id="path5256" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106619,7 +106658,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5255" />
+       id="path5257" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106640,7 +106679,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5256" />
+       id="path5258" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106661,7 +106700,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5257" />
+       id="path5259" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106682,7 +106721,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5258" />
+       id="path5260" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106703,7 +106742,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5259" />
+       id="path5261" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106724,7 +106763,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5260" />
+       id="path5262" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106745,7 +106784,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5261" />
+       id="path5263" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106766,7 +106805,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5262" />
+       id="path5264" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106787,7 +106826,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5263" />
+       id="path5265" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106808,7 +106847,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5264" />
+       id="path5266" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106829,7 +106868,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5265" />
+       id="path5267" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106850,7 +106889,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5266" />
+       id="path5268" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106871,7 +106910,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5267" />
+       id="path5269" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106892,7 +106931,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5268" />
+       id="path5270" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106913,7 +106952,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5269" />
+       id="path5271" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106934,7 +106973,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5270" />
+       id="path5272" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106955,7 +106994,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5271" />
+       id="path5273" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106976,7 +107015,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5272" />
+       id="path5274" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -106997,7 +107036,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5273" />
+       id="path5275" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107018,7 +107057,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5274" />
+       id="path5276" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107039,7 +107078,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5275" />
+       id="path5277" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107060,7 +107099,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5276" />
+       id="path5278" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107081,7 +107120,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5277" />
+       id="path5279" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107102,7 +107141,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5278" />
+       id="path5280" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107123,7 +107162,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5279" />
+       id="path5281" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107144,7 +107183,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5280" />
+       id="path5282" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107165,7 +107204,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5281" />
+       id="path5283" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107186,7 +107225,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5282" />
+       id="path5284" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107207,7 +107246,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5283" />
+       id="path5285" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107228,7 +107267,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5284" />
+       id="path5286" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107249,7 +107288,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5285" />
+       id="path5287" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107270,7 +107309,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5286" />
+       id="path5288" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107291,7 +107330,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5287" />
+       id="path5289" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107312,7 +107351,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5288" />
+       id="path5290" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107333,7 +107372,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5289" />
+       id="path5291" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107354,7 +107393,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5290" />
+       id="path5292" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107375,7 +107414,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5291" />
+       id="path5293" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107396,7 +107435,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5292" />
+       id="path5294" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107417,7 +107456,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5293" />
+       id="path5295" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107438,7 +107477,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5294" />
+       id="path5296" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107459,7 +107498,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5295" />
+       id="path5297" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107480,7 +107519,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5296" />
+       id="path5298" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107501,7 +107540,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5297" />
+       id="path5299" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107522,7 +107561,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5298" />
+       id="path5300" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107543,7 +107582,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5299" />
+       id="path5301" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107564,7 +107603,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5300" />
+       id="path5302" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107585,7 +107624,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5301" />
+       id="path5303" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107606,7 +107645,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5302" />
+       id="path5304" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107627,7 +107666,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5303" />
+       id="path5305" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107648,7 +107687,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5304" />
+       id="path5306" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107669,7 +107708,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5305" />
+       id="path5307" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107690,7 +107729,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5306" />
+       id="path5308" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107711,7 +107750,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5307" />
+       id="path5309" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107732,7 +107771,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5308" />
+       id="path5310" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107753,7 +107792,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5309" />
+       id="path5311" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107774,7 +107813,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5310" />
+       id="path5312" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107795,7 +107834,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5311" />
+       id="path5313" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107816,7 +107855,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5312" />
+       id="path5314" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107837,7 +107876,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5313" />
+       id="path5315" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107858,7 +107897,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5314" />
+       id="path5316" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107879,7 +107918,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        stroke="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5315" />
+       id="path5317" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107900,7 +107939,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5316" />
+       id="path5318" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107921,7 +107960,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        stroke="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5317" />
+       id="path5319" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107942,7 +107981,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5318" />
+       id="path5320" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107963,7 +108002,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        stroke="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5319" />
+       id="path5321" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -107983,7 +108022,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5320" />
+       id="path5322" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108004,7 +108043,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5321" />
+       id="path5323" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108024,7 +108063,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5322" />
+       id="path5324" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108045,7 +108084,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5323" />
+       id="path5325" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108065,7 +108104,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5324" />
+       id="path5326" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108086,7 +108125,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5325" />
+       id="path5327" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108105,7 +108144,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        d="M 564.69 -173.44L564.16 -172.9 L564.69 -172.37 L565.23 -172.9 L564.69 -173.44 "
        fill="none"
        stroke-width="1"
-       id="path5326" />
+       id="path5328" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108125,7 +108164,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5327" />
+       id="path5329" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108146,7 +108185,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5328" />
+       id="path5330" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108165,7 +108204,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        d="M 589.15 -289.54L588.61 -289 L589.15 -288.47 L589.68 -289 L589.15 -289.54 "
        fill="none"
        stroke-width="1"
-       id="path5329" />
+       id="path5331" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108185,7 +108224,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5330" />
+       id="path5332" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108206,7 +108245,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5331" />
+       id="path5333" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108227,7 +108266,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5332" />
+       id="path5334" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108248,7 +108287,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5333" />
+       id="path5335" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108268,7 +108307,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5334" />
+       id="path5336" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108289,7 +108328,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        stroke="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5335" />
+       id="path5337" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108309,7 +108348,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5336" />
+       id="path5338" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108330,7 +108369,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        stroke="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5337" />
+       id="path5339" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108351,7 +108390,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5338" />
+       id="path5340" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108372,7 +108411,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5339" />
+       id="path5341" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108393,7 +108432,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5340" />
+       id="path5342" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108414,7 +108453,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5341" />
+       id="path5343" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108435,7 +108474,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5342" />
+       id="path5344" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108456,7 +108495,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5343" />
+       id="path5345" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108477,7 +108516,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5344" />
+       id="path5346" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108498,7 +108537,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5345" />
+       id="path5347" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108518,7 +108557,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5346" />
+       id="path5348" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108539,7 +108578,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5347" />
+       id="path5349" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108559,7 +108598,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5348" />
+       id="path5350" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108580,7 +108619,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5349" />
+       id="path5351" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108600,7 +108639,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5350" />
+       id="path5352" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108621,7 +108660,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5351" />
+       id="path5353" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108642,7 +108681,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5352" />
+       id="path5354" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108663,7 +108702,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5353" />
+       id="path5355" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108684,7 +108723,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5354" />
+       id="path5356" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108705,7 +108744,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5355" />
+       id="path5357" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108725,7 +108764,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5356" />
+       id="path5358" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108746,7 +108785,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5357" />
+       id="path5359" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108766,7 +108805,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5358" />
+       id="path5360" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108787,7 +108826,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5359" />
+       id="path5361" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108807,7 +108846,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5360" />
+       id="path5362" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108828,7 +108867,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5361" />
+       id="path5363" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108849,7 +108888,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5362" />
+       id="path5364" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108870,7 +108909,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5363" />
+       id="path5365" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108891,7 +108930,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5364" />
+       id="path5366" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108912,7 +108951,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5365" />
+       id="path5367" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108933,7 +108972,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5366" />
+       id="path5368" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108954,7 +108993,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5367" />
+       id="path5369" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108975,7 +109014,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5368" />
+       id="path5370" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -108996,7 +109035,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5369" />
+       id="path5371" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -109016,7 +109055,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        fill="none"
        stroke-width="0.68966"
        c_note="note_pre"
-       id="path5370" />
+       id="path5372" />
   </g>
   <g
      c_partid="part_pcbtext"
@@ -109037,7 +109076,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
        stroke="none"
        stroke-width="0.68966"
        c_note="note_name"
-       id="path5371" />
+       id="path5373" />
   </g>
   <path
      d="M 267.78397 -401.6 A 0.5 0.5 0 1 0 267.78348 -401.57784"
@@ -110430,8 +110469,8 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
      id="rep6757"
      locked="0" />
   <path
-     style="fill:none;stroke:#142fff;stroke-width:4.69921;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-     d="m 116.17786,-403.32746 206.88486,0.75904 v 45.58934 l 31.05288,-1.3239 2.44775,137.44467 h 14.97187 l 1.68577,115.51497 -257.23123,-2.25545 z"
-     id="path5373"
+     style="fill:none;stroke:#142fff;stroke-width:4.69921;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+     d="m 116.17786,-403.32747 206.88486,0.75904 v 45.58934 l 31.05288,-1.3239 2.44775,137.44467 h 14.97187 l 1.68577,115.51497 -257.23123,-2.25545 z"
+     id="path5373-7"
      sodipodi:nodetypes="ccccccccc" />
 </svg>

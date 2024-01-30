@@ -16,7 +16,7 @@ screw3_name: Right
 
 ### Nevermore
 
-(Part-Cooling on `FAN0`, Hotend Fan always-on on `FAN1`, Board Fan always-on on `CORE_FAN`):
+(Part-Cooling on `FAN0`, Hotend Fan always-on on `FAN2`, Board Fan always-on on `CORE_FAN`):
 
 ```toml
 [fan_generic nevermore]
