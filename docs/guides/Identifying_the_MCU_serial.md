@@ -1,4 +1,4 @@
-# Identifying the mcu on your host maschine
+# Identifying the mcu on your host machine
 
 This tutorial guides you through the steps of identifying the serial connection klipper needs to communicate with your mcu. It needs to be done for each mcu in your printer, e.g. for a display, input shaper, klipper expander, etc.
 
