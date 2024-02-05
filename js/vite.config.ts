@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 import { svelte } from '@sveltejs/vite-plugin-svelte'
 import { globSync } from "glob";
-import { resolve } from "path";
+import path, { resolve } from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig({
@@ -11,6 +11,6 @@ export default defineConfig({
     lib: {
       formats: ["es"],
       entry: globSync(resolve(__dirname, "src", "*.svelte")),
-    },
+    }
   }
 })
