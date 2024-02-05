@@ -2,17 +2,21 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/python
 {
 	"name": "mkdocs-material",
-	"build": {
-		"dockerfile": "Dockerfile"
-	},
-	"postStartCommand": "pip install -r requirements.txt",
-	"postAttachCommand": "mkdocs serve",
+	"image": "mcr.microsoft.com/devcontainers/python:3",
+	"postStartCommand": "pip install -r requirements.txt; (cd js/; npm install)",
+	"postAttachCommand": "(cd js/; npm run build); mkdocs serve",
 	"customizations": {
 		"vscode": {
 			"extensions": [
 				"DavidAnson.vscode-markdownlint",
-				"esbenp.prettier-vscode"
+				"esbenp.prettier-vscode",
+				"svelte.svelte-vscode"
 			]
+		}
+	},
+	"features": {
+		"ghcr.io/devcontainers/features/node:1": {
+			"version": "latest"
 		}
 	}
 }
