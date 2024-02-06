@@ -95,80 +95,104 @@
 
 <link rel="stylesheet" href={materialDarkTheme} />
 
-<Card padded variant="outlined" style="margin-bottom: 20px">
-  <Paper variant="unelevated">
-    <Title>Upload</Title>
-    <TabBar tabs={["File", "Text", "Fetch from Moonraker"]} let:tab bind:active>
-      <Tab {tab}>
-        <Label>{tab}</Label>
-      </Tab>
-    </TabBar>
-    <br />
-    {#if active === "File"}
-      <div class="hide-file-ui">
+<form
+  on:submit|preventDefault={() => {
+    console.log("Submitted");
+  }}
+>
+  <Card padded variant="outlined" style="margin-bottom: 20px">
+    <Paper variant="unelevated">
+      <Title>Upload</Title>
+      <TabBar
+        tabs={["File", "Text", "Fetch from Moonraker"]}
+        let:tab
+        bind:active
+      >
+        <Tab {tab} type="button">
+          <Label>{tab}</Label>
+        </Tab>
+      </TabBar>
+      <br />
+      {#if active === "File"}
+        <div class="hide-file-ui">
+          <Textfield
+            style="width: 100%;"
+            helperLine$style="width: 100%;"
+            type="file"
+            input$name="file"
+            label="Upload your klippy.log"
+            bind:files
+          ></Textfield>
+        </div>
+      {:else if active === "Text"}
         <Textfield
-          style="width: 100%;"
+          style="width: 100%"
           helperLine$style="width: 100%;"
-          type="file"
-          label="Upload your klippy.log"
-          bind:files
+          input$style="font-family: monospace; font-size: 12px; line-height: 1rem;"
+          input$autocomplete="off"
+          input$autocorrect="off"
+          input$autocapitalize="off"
+          input$spellcheck="false"
+          input$rows={5}
+          input$name="content"
+          textarea
+          label="Paste your log file"
+          bind:value={log}
         ></Textfield>
-      </div>
-    {:else if active === "Text"}
-      <Textfield
-        style="width: 100%"
-        helperLine$style="width: 100%;"
-        input$style="font-family: monospace; font-size: 12px; line-height: 1rem;"
-        input$autocomplete="off"
-        input$autocorrect="off"
-        input$autocapitalize="off"
-        input$spellcheck="false"
-        input$rows={5}
-        textarea
-        label="Paste your log file"
-        bind:value={log}
-      ></Textfield>
-    {:else}
-      <Autocomplete
-        combobox
-        options={[
-          "http://klipper.local:7125",
-          "http://raspberrypi.local:7125",
-          "http://flygemini.local:7125",
-        ]}
-        bind:value={moonrakerUrl}
-        label="Moonraker URL"
-        style="width: 100%;"
-        textfield$style="width: 100%;"
-      />
-    {/if}
-    {#if error.length > 0}
-      <p style="color: red;"><strong>Error: {error}</strong></p>
-    {/if}
-  </Paper>
-  <Paper variant="unelevated">
-    <Title>Options</Title>
-    <LayoutGrid align="left">
-      <Cell span={6}>
-        <FormField>
-          <Switch bind:checked={removeStatusReportLines} />
-          <span slot="label">Remove status report lines</span>
-        </FormField>
-      </Cell>
-      <Cell span={6}>
-        <FormField>
-          <Switch bind:checked={onlyShowLastklipperStart} />
-          <span slot="label">Only show last klipper start</span>
-        </FormField>
-      </Cell>
-    </LayoutGrid>
-  </Paper>
-  <Actions>
-    <Button variant="raised" on:click={processLog}
-      ><Label>Process Log</Label></Button
-    >
-  </Actions>
-</Card>
+      {:else}
+        <Autocomplete
+          combobox          
+          textfield$name="moonrakerUrl"
+          options={[
+            "http://klipper.local:7125",
+            "http://raspberrypi.local:7125",
+            "http://flygemini.local:7125",
+          ]}
+          bind:value={moonrakerUrl}
+          label="Moonraker URL"
+          style="width: 100%;"
+          textfield$style="width: 100%;"
+        />
+        <p>
+          For this to work, you need to have mixed content allowed for this
+          website. Check how to for your browser here: <a
+            href="https://support.mozilla.org/en-US/kb/mixed-content-blocking-firefox#w_unblock-mixed-content"
+            >Firefox</a
+          >,
+          <a
+            href="https://experienceleague.adobe.com/docs/target/using/experiences/vec/troubleshoot-composer/mixed-content.html?lang=en"
+            >Chrome</a
+          >
+        </p>
+      {/if}
+      {#if error.length > 0}
+        <p style="color: red;"><strong>Error: {error}</strong></p>
+      {/if}
+    </Paper>
+    <Paper variant="unelevated">
+      <Title>Options</Title>
+      <LayoutGrid align="left">
+        <Cell span={6}>
+          <FormField>
+            <Switch bind:checked={removeStatusReportLines} />
+            <span slot="label">Remove status report lines</span>
+          </FormField>
+        </Cell>
+        <Cell span={6}>
+          <FormField>
+            <Switch bind:checked={onlyShowLastklipperStart} />
+            <span slot="label">Only show last klipper start</span>
+          </FormField>
+        </Cell>
+      </LayoutGrid>
+    </Paper>
+    <Actions>
+      <Button type="submit" variant="raised" on:click={processLog}
+        ><Label>Process Log</Label></Button
+      >
+    </Actions>
+  </Card>
+</form>
 <Card>
   <form method="post" action="https://www.paste.rs/web">
     <Paper>
