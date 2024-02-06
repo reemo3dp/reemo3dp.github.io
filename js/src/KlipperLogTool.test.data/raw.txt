@@ -1,0 +1,25 @@
+webhooks client 139646904459424: Disconnected
+Restarting printer
+Start printer at Sat May  6 16:29:38 2023 (1683390578.7 4387047.6)
+===== Config file =====
+webhooks client 139646904459424: Disconnected
+Restarting printer
+Start printer at Sat May  6 16:29:38 2023 (1683390578.7 4387047.6)
+===== Config file =====
+webhooks client 139646904459424: Disconnected
+Receive: 0 151.864215 151.863561 49: seq: 13, identify_response offset=160 data=b'\xf1\xfb\xc7\xf0GF\xeb\xc9t\x92\xd5e\x99V9\xd0\xff}\x92\x16E\x9d\xa5\x9d\xe0\xb5\xcc\x15\xcb\xea\xbe\xea>\xbc\xcb&\xe7\xab)0'
+Receive: 1 151.866267 151.865424 49: seq: 14, identify_response offset=200 data=b"\xdbu\xc0%O\xb3'\x06\xa7\xb0\xed\x9d\xc7\xb1\x07\x90\xe7\x16\xa0\xa9\x95\xfe\x91\xd5\x87w=k\xfa\xa2\xe0}C\x08\x8b\x01\xe1K/\xda"
+Restarting printer
+Start printer at Sat May  6 16:29:38 2023 (1683390578.7 4387047.6)
+===== Config file =====
+[virtual_sdcard]
+path = /opt/printer_data/gcodes
+
+[pause_resume]
+
+[display_status]
+
+[exclude_object]
+
+[mcu]
+serial =

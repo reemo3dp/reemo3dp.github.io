@@ -1,5 +1,42 @@
 <svelte:options customElement="wizard-klipper-log-tool" />
 
+<script context="module" lang="ts">
+  export type Options = {
+    removeStatusReportLines: boolean;
+    onlyShowLastklipperStart: boolean;
+  };
+  const STATUS_LINES = [
+    "Receive: ",
+    "Sent ",
+    "Stats ",
+    "Dumping receive queue",
+  ];
+  export function klipperLogTool(log: string, opts: Options): string {
+    let lines;
+    if (opts.onlyShowLastklipperStart) {
+      const start = log.lastIndexOf("Start printer at ");
+      if (start === -1) {
+        lines = log.split("\n");
+      } else {
+        lines = log.slice(start).split("\n");
+      }
+    } else {
+      lines = log.split("\n");
+    }
+
+    const newLog = [];
+    for (let line of lines) {
+      if (opts.removeStatusReportLines) {
+        if (STATUS_LINES.some((statusLine) => line.startsWith(statusLine))) {
+          continue;
+        }
+      }
+      newLog.push(line);
+    }
+    return newLog.join("\n");
+  }
+</script>
+
 <script lang="ts">
   import materialDarkTheme from "svelte-material-ui/themes/material-dark.css?url";
   import TabBar from "@smui/tab-bar";
@@ -17,11 +54,43 @@
 
   let active: string = "File";
   let log = "";
-  let moonrakerUrl: String = "";
+  let showMoonRakerCorsMessage: boolean = false;
+  let moonrakerUrl: string = "";
   let processedLog = "";
+
+  let error: string = "";
+
+  let outputTextarea: Textfield | null = null;
 
   let removeStatusReportLines: boolean = true;
   let onlyShowLastklipperStart: boolean = true;
+
+  let processLog = async () => {
+    if (active === "File") {
+      if (!files || files.length === 0) {
+        return;
+      }
+      log = await files[0].text();
+      active = "Text";
+    } else if (active === "Fetch from Moonraker") {
+      try {
+        const url = new URL("/server/files/klippy.log", moonrakerUrl);
+        log = await fetch(url).then((res) => res.text());
+        active = "Text";
+        showMoonRakerCorsMessage = true;
+      } catch (e: any) {
+        error = e.message || e;
+        return;
+      }
+    }
+    error = "";
+
+    processedLog = klipperLogTool(log, {
+      removeStatusReportLines,
+      onlyShowLastklipperStart,
+    });
+    outputTextarea?.getElement()?.scrollIntoView({ behavior: "smooth" });
+  };
 </script>
 
 <link rel="stylesheet" href={materialDarkTheme} />
@@ -34,7 +103,7 @@
         <Label>{tab}</Label>
       </Tab>
     </TabBar>
-    <br/>
+    <br />
     {#if active === "File"}
       <div class="hide-file-ui">
         <Textfield
@@ -47,9 +116,14 @@
       </div>
     {:else if active === "Text"}
       <Textfield
-        style="width: 100%;"
+        style="width: 100%"
         helperLine$style="width: 100%;"
-        input$rows={10}
+        input$style="font-family: monospace; font-size: 12px; line-height: 1rem;"
+        input$autocomplete="off"
+        input$autocorrect="off"
+        input$autocapitalize="off"
+        input$spellcheck="false"
+        input$rows={5}
         textarea
         label="Paste your log file"
         bind:value={log}
@@ -67,6 +141,9 @@
         style="width: 100%;"
         textfield$style="width: 100%;"
       />
+    {/if}
+    {#if error.length > 0}
+      <p style="color: red;"><strong>Error: {error}</strong></p>
     {/if}
   </Paper>
   <Paper variant="unelevated">
@@ -87,7 +164,9 @@
     </LayoutGrid>
   </Paper>
   <Actions>
-    <Button variant="raised"><Label>Process Log</Label></Button>
+    <Button variant="raised" on:click={processLog}
+      ><Label>Process Log</Label></Button
+    >
   </Actions>
 </Card>
 <Card>
@@ -96,7 +175,13 @@
       <input type="hidden" name="ext" value="txt" />
       <Title>Output</Title>
       <Textfield
+        bind:this={outputTextarea}
         input$name="content"
+        input$style="font-family: monospace; font-size: 12px; line-height: 1rem;"
+        input$autocomplete="off"
+        input$autocorrect="off"
+        input$autocapitalize="off"
+        input$spellcheck="false"
         style="width: 100%;"
         helperLine$style="width: 100%;"
         input$rows={10}
@@ -104,6 +189,21 @@
         label="Output"
         bind:value={processedLog}
       />
+      {#if showMoonRakerCorsMessage}
+        <p style="color: red;">
+          <strong
+            >The fact that we were able to directly access your moonraker
+            instance without authentication is a security risk. Any website can
+            right now start and interrupt your printer, e.g. heat up the hotend
+            to 350°C, or delete your printer configuration. <br />See
+            <a
+              href="https://moonraker.readthedocs.io/en/latest/configuration/#authorization"
+              >https://moonraker.readthedocs.io/en/latest/configuration/#authorization</a
+            >
+            on how to avoid this using API keys or restricting origin webservers.</strong
+          >
+        </p>
+      {/if}
       <Actions>
         <Button type="submit" variant="raised"
           ><Label>Upload to paste.rs</Label></Button

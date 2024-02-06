@@ -1,0 +1,27 @@
+Git version: '?'
+CPU: 6 core Intel(R) Core(TM) i5-8400T CPU @ 1.70GHz
+Python: '2.7.18 (default, Apr 20 2020, 19:34:11) \n[GCC 8.3.0]'
+Start printer at Sat May  6 13:29:38 2023 (1683390578.7 4387047.6)
+webhooks client 139646904459424: {'program': 'Moonraker', 'version': '?'}
+=============== Log rollover at Sat May  6 16:29:26 2023 ===============
+mcu 'mcu': Unable to connect
+Once the underlying issue is corrected, use the
+"FIRMWARE_RESTART" command to reset the firmware, reload the
+config, and restart the host software.
+Error configuring printer
+
+webhooks client 139646904459424: Disconnected
+Restarting printer
+Start printer at Sat May  6 16:29:38 2023 (1683390578.7 4387047.6)
+===== Config file =====
+[virtual_sdcard]
+path = /opt/printer_data/gcodes
+
+[pause_resume]
+
+[display_status]
+
+[exclude_object]
+
+[mcu]
+serial =
