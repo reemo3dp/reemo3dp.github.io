@@ -47,7 +47,6 @@
       palette: gradientString.split("(").flatMap((color) => {
         const trimmed = color.trim().slice(0, color.lastIndexOf(")"));
         const result = fromKlipperLedEffect(trimmed);
-        console.log({ color, trimmed, result: result.toRgbString() });
 
         if (!color) return [];
         return [result];
@@ -56,11 +55,11 @@
   };
 
   enum MIX {
-    LAB = "lab",
-    RGB = "rgb",
-    HSL = "hsl",
-    RGB_SQR = "rgb-sqr",
     NONE = "none",
+    LAB = "lab",
+    HSL = "hsl",
+    RGB = "rgb",
+    RGB_SQR = "rgb-sqr",
   }
   extend([mixPlugin]);
 
@@ -153,8 +152,16 @@
 </script>
 
 <script lang="ts">
-  let mix: MIX = MIX.LAB;
-  let steps: number = 10;
+  import materialDarkTheme from "svelte-material-ui/themes/material-dark.css?url";
+  import FormField from "@smui/form-field";
+  import TextField, { Textarea } from "@smui/textfield";
+  import Paper, { Title, Subtitle } from "@smui/paper";
+  import Card, { Actions } from "@smui/card";
+  import Button from "@smui/button";
+  import { Label } from "@smui/common";
+  import Select, { Option } from "@smui/select";
+  let mix: MIX = MIX.NONE;
+  let steps: number = 200;
 
   let gradient: Colord[] = [];
 
@@ -174,24 +181,53 @@
   }
 </script>
 
-<textarea
-  bind:value={klipperInput}
-  style="width: 100%; display: block;"
-  rows="2"
-></textarea>
-<input type="number" bind:value={steps} />
-<select bind:value={mix}>
-  {#each Object.values(MIX) as mixType}
-    <option value={mixType}>{mixType.toUpperCase()}</option>
-  {/each}
-</select>
-<div style="width: 100%; height: 20px;">
-  {#each gradient as color}
-    <div
-      style="display: inline-block; width: {100 /
-        gradient.length}%; height: 20px; background-color: {color.toHex()}"
-    ></div>
-  {/each}
-</div>
-<textarea bind:value={gradientStr} style="width: 100%; display: block;" rows="2"
-></textarea>
+<link rel="stylesheet" href={materialDarkTheme} />
+
+<Paper>
+  <Title>Generator</Title>
+  <TextField
+    label="Input Layer"
+    textarea
+    input$style="font-family: monospace; font-size: 12px; line-height: 1rem; padding: 0"
+    input$autocomplete="off"
+    input$autocorrect="off"
+    input$autocapitalize="off"
+    input$spellcheck="false"
+    style="width: 100%;"
+    helperLine$style="width: 100%;"
+    input$rows={5}
+    bind:value={klipperInput}
+  />
+  <TextField label="Steps" type="number" bind:value={steps} />
+
+  <span
+    >Blending Mode: <select bind:value={mix}>
+      {#each Object.values(MIX) as mixType}
+        <option value={mixType}>{mixType.toUpperCase()}</option>
+      {/each}
+    </select></span
+  >
+</Paper>
+<br />
+<Card>
+  <Paper variant="unelevated">
+    <Title>Preview</Title>
+    <div style="width: 100%; height: 20px; margin: 20px 0 ">
+      {#each gradient as color}
+        <div
+          style="display: inline-block; width: {100 /
+            gradient.length}%; height: 20px; background-color: {color.toHex()}"
+        ></div>
+      {/each}
+    </div>
+    <Subtitle>New Layer</Subtitle>
+    <textarea
+      bind:value={gradientStr}
+      style="width: 100%; display: block;"
+      rows="4"
+    ></textarea>
+  </Paper>
+  <Actions>
+    <Button on:click={() => navigator.clipboard.writeText(gradientStr)}><Label>Copy to Clipboard</Label></Button>
+  </Actions>
+</Card>

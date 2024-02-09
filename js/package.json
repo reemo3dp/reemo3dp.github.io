@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "vite build --watch",
+    "start": "vite build --watch --sourcemap true --mode development --minify false",
     "test": "vitest",
     "build": "vite build",
     "check": "svelte-check --tsconfig ./tsconfig.json"
@@ -28,6 +28,7 @@
     "vitest": "^1.2.2"
   },
   "dependencies": {
+    "@smui/select": "^7.0.0-beta.16",
     "colord": "^2.9.3",
     "svelte-material-ui": "^7.0.0-beta.16"
   }
