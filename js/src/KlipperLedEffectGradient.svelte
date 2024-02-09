@@ -45,9 +45,12 @@
       cutoff,
       mode,
       palette: gradientString.split("(").flatMap((color) => {
+        const trimmed = color.trim().slice(0, color.lastIndexOf(")"));
+        const result = fromKlipperLedEffect(trimmed);
+        console.log({ color, trimmed, result: result.toRgbString() });
+
         if (!color) return [];
-        const trimmed = color.trim().slice(0, -1);
-        return [fromKlipperLedEffect(trimmed)];
+        return [result];
       }),
     };
   };
