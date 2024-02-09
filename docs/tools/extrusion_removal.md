@@ -16,4 +16,4 @@ It comments out the following commands:
 
 <script type="module" src="/assets/js/GCodeRemoveExtrusion.js"></script>
 
-<wizard-remove-extrusions/>
+<wizard-remove-extrusions></wizard-remove-extrusions>

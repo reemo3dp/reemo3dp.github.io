@@ -9,4 +9,4 @@ This tool helps you clean up and upload your `klippy.log`. See <https://github.c
 
 <script type="module" src="/assets/js/KlipperLogTool.js"></script>
 
-<wizard-klipper-log-tool/>
+<wizard-klipper-log-tool></wizard-klipper-log-tool>
