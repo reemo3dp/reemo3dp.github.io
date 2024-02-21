@@ -63,7 +63,7 @@
   let outputTextarea: Textfield | null = null;
 
   let removeStatusReportLines: boolean = true;
-  let onlyShowLastklipperStart: boolean = true;
+  let onlyShowLastklipperStart: boolean = false;
 
   let processLog = async () => {
     if (active === "File") {
