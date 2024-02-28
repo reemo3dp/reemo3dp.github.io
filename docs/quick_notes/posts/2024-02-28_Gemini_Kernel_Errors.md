@@ -1,20 +1,22 @@
 ---
 date: 2024-02-28
 categories:
-- Mellow Fly Gemini V3
+  - Mellow Fly Gemini V3
 ---
 
 # Mellow Fly Gemini V3 Kernel Errors
 
 Leaving this here in case someone else runs into the same problem: This is how my Mellow Fly Gemini V3 died. Non-reproducible, but frequent memroy related errors in `dmesg`, segmentation faults on klipper and moonraker.
 
+My verdict is a hardware fault, and I'm changing to a *BTT SKRat*.
+
 Things I've tried:
+
 - Removed all periphals except WiFi
 - Different operating systems:
-  - `Armbian_22.08.0-trunk_Flypiv1_bullseye_current_5.15.52.img`
-  - `FLY-v3.1_Flygemini_bullseye_0906_5.10.85.img`
-  - My Armbian Build using `legacy` (6.1), `current` (6.6) and `edge` (6.7) kernels.
-
+    - `Armbian_22.08.0-trunk_Flypiv1_bullseye_current_5.15.52.img`
+    - `FLY-v3.1_Flygemini_bullseye_0906_5.10.85.img`
+    - My Armbian Build using `legacy` (6.1), `current` (6.6) and `edge` (6.7) kernels.
 
 ```
 [  249.999708] ------------[ cut here ]------------
@@ -54,7 +56,7 @@ Things I've tried:
 [  250.207232]  el0t_64_sync+0x190/0x194
 [  250.210901] ---[ end trace 0000000000000000 ]---
 [  309.133028] rcu: INFO: rcu_sched detected stalls on CPUs/tasks:
-[  309.139075] rcu: 	3-...0: (7 ticks this GP) idle=91a4/1/0x4000000000000000 softirq=10367/10368 fqs=3446
-[  309.148484] rcu: 	(detected by 1, t=15005 jiffies, g=16041, q=1416 ncpus=4)
+[  309.139075] rcu:  3-...0: (7 ticks this GP) idle=91a4/1/0x4000000000000000 softirq=10367/10368 fqs=3446
+[  309.148484] rcu:  (detected by 1, t=15005 jiffies, g=16041, q=1416 ncpus=4)
 [  309.155458] Sending NMI from CPU 1 to CPUs 3:
 ```

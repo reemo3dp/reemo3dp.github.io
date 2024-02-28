@@ -7,6 +7,11 @@
 	"postAttachCommand": "(cd js/; npm run build); mkdocs serve",
 	"customizations": {
 		"vscode": {
+			"settings": {
+				"[markdown]": {
+					"editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+				}
+			},
 			"extensions": [
 				"DavidAnson.vscode-markdownlint",
 				"esbenp.prettier-vscode",
