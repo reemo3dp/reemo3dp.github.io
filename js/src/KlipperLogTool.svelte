@@ -50,6 +50,7 @@
   import Paper, { Title } from "@smui/paper";
   import Autocomplete from "@smui-extra/autocomplete";
   import Card, { Actions } from "@smui/card";
+  import { afterUpdate, tick } from "svelte";
   let files: FileList | null = null;
 
   let active: string = "File";
@@ -89,7 +90,12 @@
       removeStatusReportLines,
       onlyShowLastklipperStart,
     });
-    outputTextarea?.getElement()?.scrollIntoView({ behavior: "smooth" });
+
+    const outputTextareaElem = outputTextarea?.input?.getElement();
+    if (!outputTextareaElem) return;
+    await tick();
+    outputTextareaElem.scrollTop = outputTextareaElem.scrollHeight;
+    outputTextareaElem.scrollIntoView({ behavior: "smooth" });
   };
 </script>
 
@@ -97,7 +103,7 @@
 
 <form
   on:submit|preventDefault={() => {
-    console.log("Submitted");
+    processLog();
   }}
 >
   <Card padded variant="outlined" style="margin-bottom: 20px">
@@ -128,7 +134,7 @@
         <Textfield
           style="width: 100%"
           helperLine$style="width: 100%;"
-          input$style="font-family: monospace; font-size: 12px; line-height: 1rem;"
+          input$style="font-family: monospace; font-size: 12px; line-height: 1em;"
           input$autocomplete="off"
           input$autocorrect="off"
           input$autocapitalize="off"
@@ -141,7 +147,7 @@
         ></Textfield>
       {:else}
         <Autocomplete
-          combobox          
+          combobox
           textfield$name="moonrakerUrl"
           options={[
             "http://klipper.local:7125",
@@ -187,9 +193,7 @@
       </LayoutGrid>
     </Paper>
     <Actions>
-      <Button type="submit" variant="raised" on:click={processLog}
-        ><Label>Process Log</Label></Button
-      >
+      <Button type="submit" variant="raised"><Label>Process Log</Label></Button>
     </Actions>
   </Card>
 </form>
@@ -201,14 +205,13 @@
       <Textfield
         bind:this={outputTextarea}
         input$name="content"
-        input$style="font-family: monospace; font-size: 12px; line-height: 1rem;"
+        input$style="font-family:'Courier New', Courier, monospace; font-size: 12px; line-height: 1em; color: white; height: 80vh;"
         input$autocomplete="off"
         input$autocorrect="off"
         input$autocapitalize="off"
         input$spellcheck="false"
         style="width: 100%;"
         helperLine$style="width: 100%;"
-        input$rows={10}
         textarea
         label="Output"
         bind:value={processedLog}

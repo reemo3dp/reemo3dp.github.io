@@ -11,3 +11,12 @@ Replace your layer with the generated layer and restart klipper to see how it wo
 <script type="module" src="/assets/js/KlipperLedEffectGradient.js"></script>
 
 <wizard-klipper-led-effect-gradient></wizard-klipper-led-effect-gradient>
+
+<style>
+    .md-sidebar.md-sidebar--secondary {
+        display: none;
+    }
+    .md-main__inner {
+        max-width: 100%;
+    }
+</style>

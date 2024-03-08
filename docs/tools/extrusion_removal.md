@@ -17,3 +17,12 @@ It comments out the following commands:
 <script type="module" src="/assets/js/GCodeRemoveExtrusion.js"></script>
 
 <wizard-remove-extrusions></wizard-remove-extrusions>
+
+<style>
+    .md-sidebar.md-sidebar--secondary {
+        display: none;
+    }
+    .md-main__inner {
+        max-width: 100%;
+    }
+</style>

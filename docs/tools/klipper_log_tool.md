@@ -10,3 +10,12 @@ This tool helps you clean up and upload your `klippy.log`. See <https://github.c
 <script type="module" src="/assets/js/KlipperLogTool.js"></script>
 
 <wizard-klipper-log-tool></wizard-klipper-log-tool>
+
+<style>
+    .md-sidebar.md-sidebar--secondary {
+        display: none;
+    }
+    .md-main__inner {
+        max-width: 100%;
+    }
+</style>
