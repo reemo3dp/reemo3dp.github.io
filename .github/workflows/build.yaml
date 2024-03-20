@@ -21,8 +21,6 @@
 name: documentation
 on:
   push:
-    branches:
-      - main
 
 env:
   PYTHON_VERSION: 3.x
@@ -92,10 +90,12 @@ jobs:
 
       - name: Upload to GitHub Pages
         uses: actions/upload-pages-artifact@v3
+        if: github.ref == 'refs/heads/main'
         with:
           path: site
 
       - name: Deploy to GitHub Pages
+        if: github.ref == 'refs/heads/main'
         uses: actions/deploy-pages@v4
 
       - name: Save build cache
