@@ -6,7 +6,7 @@ categories:
 
 # Retraction tower with klipper
 
-One thing that was amazing about _Ultimaker Cura_ was the [https://github.com/5axes/Calibration-Shapes/tree/master](Calibration Shapes) plugin, allowing easy calibration for all major filament parameters.
+One thing that was amazing about _Ultimaker Cura_ was the [Calibration Shapes](https://github.com/5axes/Calibration-Shapes/tree/master) plugin, allowing easy calibration for all major filament parameters.
 
 None of the _SuperSlicer_ forks seem to handle this variety of calibration shapes, and retraction has always been the most problematic one for me.
 
