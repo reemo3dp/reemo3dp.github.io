@@ -10,6 +10,11 @@
       "matchPackagePrefixes": ["@smui/", "@smui-extra/"],
       "matchPackageNames": ["svelte-material-ui"],
       "groupName": "SMUI"
+    },
+    {
+      "matchPackagePrefixes": ["mkdocs"],
+      "matchPackageNames": ["mkdocs"],
+      "groupName": "mkdocs"
     }
   ]
 }
