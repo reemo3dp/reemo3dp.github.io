@@ -15,6 +15,11 @@
       "matchPackagePrefixes": ["mkdocs"],
       "matchPackageNames": ["mkdocs"],
       "groupName": "mkdocs"
+    },
+    {
+      "matchPackagePrefixes": ["svelte"],
+      "matchPackageNames": ["svelte"],
+      "groupName": "svelte"
     }
   ]
 }
