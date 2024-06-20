@@ -1,5 +1,5 @@
 Babel==2.15.0
-cairocffi==1.7.0
+cairocffi==1.7.1
 CairoSVG==2.7.1
 certifi==2023.11.17
 cffi==1.16.0
