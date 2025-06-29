@@ -45,7 +45,7 @@ setuptools==75.9.1
 six==1.17.0
 smmap==5.0.2
 tinycss2==1.4.0
-urllib3==2.2.3
+urllib3==2.5.0
 watchdog==6.0.0
 webencodings==0.5.1
 wheel==0.45.1
