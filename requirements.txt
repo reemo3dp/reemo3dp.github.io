@@ -40,7 +40,7 @@ pytz==2024.2
 PyYAML==6.0.3
 pyyaml_env_tag==0.1
 regex==2024.11.6
-requests==2.32.4
+requests==2.32.5
 setuptools==75.9.1
 six==1.17.0
 smmap==5.0.2
