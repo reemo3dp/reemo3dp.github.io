@@ -39,7 +39,7 @@ python-dateutil==2.9.0.post0
 pytz==2025.2
 PyYAML==6.0.3
 pyyaml_env_tag==1.1
-regex==2024.11.6
+regex==2025.11.3
 requests==2.32.5
 setuptools==75.9.1
 six==1.17.0
