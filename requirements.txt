@@ -43,7 +43,7 @@ regex==2025.11.3
 requests==2.32.5
 setuptools==80.10.2
 six==1.17.0
-smmap==5.0.2
+smmap==5.0.3
 tinycss2==1.5.1
 urllib3==2.6.3
 watchdog==6.0.0
